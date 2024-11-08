@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "github-pages", "~> 226", group: :jekyll_plugins
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "3.9.2"
 gem "jekyll-sass-converter", "1.5.2"
 gem "liquid", "~> 4.0"
 gem "kramdown", "~> 2.3"
