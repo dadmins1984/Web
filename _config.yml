@@ -1,4 +1,3 @@
 title: CyberSecure Solutions
-baseurl: "" # Pozostaw puste, jeśli to jest główna strona repozytorium
-markdown: kramdown
-theme: minima
+baseurl: ""
+theme: minima 

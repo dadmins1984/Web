@@ -1,15 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CyberSecurity Solutions - Secure your data with our top-tier security services.">
+    <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 <body>
-  <header>
-    {% include header.html %}
-  </header>
-  <main>
-    {{ content }}
-  </main>
+
+    <header>
+        <div class="logo">
+            <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="CyberSecure Solutions">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>&copy; 2024 CyberSecure Solutions - All Rights Reserved</p>
+    </footer>
+
 </body>
 </html>
