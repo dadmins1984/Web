@@ -1,8 +1,7 @@
 ---
 layout: default
-title: CyberSecure Solutions
+title: "Welcome to My Website"
 ---
 
-# CyberSecure Solutions
-Pioneering Security in the Crypto World
-fdsfdsafasdfdsa
+<h1>Welcome to Our Cybersecurity Website</h1>
+<p>This is the main page with some introductory text.</p>

@@ -1,82 +1,16 @@
-/* Podstawowe resetowanie stylów */
-* {
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #f4f7f9;
-    color: #333;
-    line-height: 1.6;
-}
-
-header {
-    background-color: #1e1e2f;
-    color: #fff;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-header .logo img {
-    width: 120px;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-}
-
-nav ul li {
-    margin-left: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: 500;
-    transition: color 0.3s;
-}
-
-nav ul li a:hover {
-    color: #00bcd4;
-}
-
-section {
-    padding: 50px;
-    text-align: center;
-}
-
-section#about {
-    background-color: #fff;
-    margin-top: 20px;
-    border-radius: 8px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-}
-
-section h2 {
-    color: #1e1e2f;
-    font-size: 2rem;
-}
-
-section#contact {
-    background-color: #1e1e2f;
-    color: #fff;
-    margin-top: 20px;
-    border-radius: 8px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-}
-
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: #fff;
-}
-
-footer p {
-    font-size: 0.9rem;
-}
+  }
+  
+  h1 {
+    color: #2a9d8f;
+  }
+  
+  p {
+    font-size: 1.1rem;
+  }
+  

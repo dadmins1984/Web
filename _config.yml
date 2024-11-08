@@ -1,25 +1,20 @@
 title: "CyberSecurity Startup"
 description: "We provide training, implementation, and reviews for cybersecurity solutions."
 
-baseurl: "" # Może być wymagane, jeśli strona jest hostowana w subfolderze, np. "/myproject"
-url: "https://twojanazwa.github.io" # URL repozytorium
-
-theme: jekyll-theme-cayman # lub inny, np. "minima"
+theme: jekyll-theme-minimal # Możesz zmienić na "cayman" lub inny, w zależności od preferencji
 markdown: kramdown
 
-# Aktywacja Sass do obsługi CSS
 sass:
   style: compressed
 
-# Sekcje, które Jekyll ma budować
 include:
   - _posts
-  - _pages
+  - assets # Upewnij się, że zasoby CSS i obrazy są brane pod uwagę
 
-# Definiowanie permalinks
 permalinks:
   post: "/:year/:month/:day/:slug"
   page: "/:slug/"
+
 
 url: "https://dadmins1984.github.io/Web/"  # Zmien na swoja URL (twoje repozytorium GitHub Pages)
 repository: "dadmins1984/Web"  # Zmien na twoje repozytorium GitHub
