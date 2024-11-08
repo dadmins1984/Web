@@ -5,6 +5,7 @@ theme: jekyll-theme-minimal # Możesz zmienić na "cayman" lub inny, w zależno�
 markdown: kramdown
 
 sass:
+  sass_dir: assets/css
   style: compressed
 
 include:
