@@ -1,14 +1,16 @@
 ---
 layout: default
-title: "CyberSafe - Firma zajmująca się Cyberbezpieczeństwem"
+title: "CyberSecurity Co."
 ---
 
-# Witamy w CyberSafe
+# Witamy w CyberSecurity Co.
 
-Jesteśmy firmą specjalizującą się w zapewnianiu kompleksowego bezpieczeństwa cyfrowego. Nasza oferta obejmuje **szkolenia**, **wdrożenia** i **przeglądy** systemów zabezpieczeń. 
+Jako liderzy w dziedzinie cyberbezpieczeństwa, oferujemy kompleksowe usługi w zakresie zabezpieczeń IT, audytów oraz szkoleń dla Twojej firmy.
 
-## Kontakt
+## Nasze usługi:
 
-Masz pytania? Skontaktuj się z nami!
+- **Szkolenia** – Zdobądź niezbędną wiedzę, aby zabezpieczyć swoje zasoby.
+- **Wdrożenia** – Wdrażamy zaawansowane systemy ochrony.
+- **Audyt bezpieczeństwa** – Zidentyfikuj i napraw luki w systemie.
 
-Email: [kontakt@cybersafe.pl](mailto:kontakt@cybersafe.pl)
+<button>Skontaktuj się z nami</button>

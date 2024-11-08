@@ -4,32 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ 'https://dadmins1984.github.io/Web/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
   {% include header.html %}
-  
+
   <main>
-    <div class="content-container">
-      <h1>Witamy w CyberSecurity Co.</h1>
-      <p>Twoje zaufane źródło wiedzy na temat cyberbezpieczeństwa. Oferujemy szkolenia, wdrożenia systemów zabezpieczeń i audyty bezpieczeństwa, które chronią Twoje dane.</p>
-      <button>Skontaktuj się z nami</button>
-    </div>
-
-    <section id="training">
-      <h2>Szkolenia</h2>
-      <p>Nasze szkolenia z zakresu cyberbezpieczeństwa pomogą Ci i Twojemu zespołowi zrozumieć zagrożenia i metody obrony w świecie online.</p>
-    </section>
-
-    <section id="deployments">
-      <h2>Wdrożenia</h2>
-      <p>Zapewniamy kompleksowe wdrożenia systemów zabezpieczeń, które skutecznie chronią Twoją organizację przed cyberzagrożeniami.</p>
-    </section>
-
-    <section id="audits">
-      <h2>Audyty Bezpieczeństwa</h2>
-      <p>Przeprowadzamy szczegółowe audyty bezpieczeństwa, pomagając w wykrywaniu luk i wprowadzeniu niezbędnych poprawek.</p>
-    </section>
+    {{ content }}
   </main>
 
   {% include footer.html %}
