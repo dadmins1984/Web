@@ -7,33 +7,35 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
-    height: 100vh;  /* Ustawiamy pełną wysokość ekranu */
+    min-height: 100vh; /* Upewnia się, że body zajmuje pełną wysokość */
   }
   
   main {
-    flex: 1;  /* Zapewnia, że main będzie zajmować całą dostępną przestrzeń, pozostawiając miejsce na stopkę */
+    flex: 1;  /* Gwarantuje, że main będzie elastyczny i zajmuje przestrzeń */
     padding: 20px;
     text-align: center;
   }
   
-  /* Przycisk "Skontaktuj się z nami" */
+  /* Styl przycisku "Skontaktuj się z nami" */
   .contact-btn {
-    padding: 10px 20px;
+    padding: 12px 25px;
     font-size: 16px;
     background-color: #0056b3;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 20px;  /* Oddalenie przycisku */
-    margin-bottom: 30px;  /* Odsunięcie o dwa entery */
+    margin-top: 20px;  /* Dodanie przestrzeni nad przyciskiem */
+    margin-bottom: 30px;  /* Odsunięcie przycisku o dwa entery */
+    display: inline-block; /* Sprawia, że przycisk jest wyświetlany jako blok, umożliwiając stylowanie */
+    transition: background-color 0.3s ease;
   }
   
   .contact-btn:hover {
     background-color: #004080;
   }
   
-  /* Stylizacja dolnej belki (footer) */
+  /* Stylizacja stopki, aby była zawsze na dole ekranu */
   footer {
     position: fixed;
     bottom: 0;
@@ -45,7 +47,7 @@ body {
     padding: 15px 0;
     font-size: 14px;
     font-family: 'Arial', sans-serif;
-    z-index: 1000;  /* Zapewnia, że stopka będzie na wierzchu */
+    z-index: 1000;  /* Gwarantuje, że stopka będzie zawsze na wierzchu */
   }
   
   footer a {
@@ -57,9 +59,17 @@ body {
     text-decoration: underline;
   }
   
-  /* Dodatkowy styl dla nagłówków, jeśli chcesz ładnie je wycentrować */
+  /* Zastosowanie wyśrodkowanego tekstu */
   h1, h2, h3 {
     color: #333;
     text-align: center;
+  }
+  
+  /* Dodatkowe poprawki dla responsywności */
+  @media screen and (max-width: 600px) {
+    .contact-btn {
+      width: 100%; /* Sprawia, że przycisk będzie zajmować pełną szerokość ekranu na małych urządzeniach */
+      padding: 15px;
+    }
   }
   
