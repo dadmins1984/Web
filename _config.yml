@@ -1,7 +1,12 @@
-
-yaml
 title: "Nowoczesna Strona"
-theme: jekyll-theme-minimal
+description: "This is a modern Jekyll site"
 url: "https://dadmins1984.github.io/Web/
-baseurl: "" # Zostaw puste, jeśli to strona główna
+baseurl: "" # leave this empty if it's the root of the site
+
+# The theme you're using
+theme: jekyll-theme-minimal
+
+
+
+
 
