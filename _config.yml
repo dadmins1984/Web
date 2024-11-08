@@ -1,7 +1,5 @@
 
-### 2. **Plik `_config.yml` (Konfiguracja Jekyll)**
-
-```yaml
+yaml
 title: "Nowoczesna Strona"
 theme: jekyll-theme-minimal
 url: "https://dadmins1984.github.io/Web/
