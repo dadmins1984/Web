@@ -22,7 +22,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 40px;
+    padding: 10px 40px; /* Zmniejszony padding */
     background-color: #2c3e50; /* Ciemniejszy odcień granatu */
     position: fixed;
     top: 0;
@@ -33,7 +33,7 @@
   
   /* Logo */
   header .logo h1 {
-    font-size: 30px;
+    font-size: 28px; /* Zmniejszona czcionka logo */
     color: #ecf0f1; /* Jasny szary */
     font-weight: 700;
     text-transform: uppercase;
@@ -51,13 +51,13 @@
   }
   
   nav ul li {
-    margin-left: 30px;
+    margin-left: 20px; /* Zmniejszone marginesy */
   }
   
   nav a {
     color: #ecf0f1;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 14px; /* Zmniejszona czcionka */
     font-weight: bold;
     text-transform: uppercase;
     padding: 5px 0;
@@ -168,12 +168,15 @@
     background-color: #2c3e50;
     color: #ecf0f1;
     text-align: center;
-    padding: 20px;
+    padding: 10px 20px; /* Zmniejszony padding */
     font-size: 14px;
     margin-top: auto; /* Sprawia, że stopka przesuwa się na dół */
     width: 100%; /* Zapewnia pełną szerokość */
     box-sizing: border-box; /* Uwzględnia padding w szerokości */
-    overflow: hidden; /* Zapobiega wyciekowi elementów poza ekran */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px; /* Stała wysokość stopki */
   }
   
   footer a {
@@ -188,7 +191,7 @@
   /* Zmiany dla urządzeń mobilnych */
   @media (max-width: 768px) {
     footer {
-      padding: 15px; /* Mniejszy padding na małych ekranach */
+      padding: 10px 20px; /* Zmniejszony padding na telefonach */
       font-size: 12px; /* Zmniejszenie czcionki na telefonach */
     }
   
