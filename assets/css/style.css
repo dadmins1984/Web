@@ -176,11 +176,26 @@
     overflow: hidden; /* Zapobiega wyciekowi elementów poza ekran */
   }
   
+  footer a {
+    color: #f39c12;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
   /* Zmiany dla urządzeń mobilnych */
   @media (max-width: 768px) {
     footer {
       padding: 15px; /* Mniejszy padding na małych ekranach */
       font-size: 12px; /* Zmniejszenie czcionki na telefonach */
+    }
+  
+    button {
+      margin-top: 20px; /* Przesunięcie przycisku w dół */
+      font-size: 16px; /* Mniejsza czcionka dla przycisku */
+      width: 100%; /* Przycisk rozciąga się na całą szerokość */
     }
   }
   
