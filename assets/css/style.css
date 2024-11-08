@@ -1,77 +1,21 @@
-/* Resetowanie stylów domyślnych */
-* {
+body {
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    background-color: #f0f0f0;
   }
   
-  /* Stylowanie ciała strony */
-  body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f7f6;
-    color: #333;
-    line-height: 1.6;
-  }
-  
-  /* Nagłówek */
-  h1, h2, h3 {
-    color: #1a73e8;
-  }
-  
-  /* Nagłówki */
-  h1 {
-    font-size: 2.5em;
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
     text-align: center;
   }
   
-  h2 {
-    font-size: 2em;
-    margin-top: 20px;
-  }
-  
-  h3 {
-    font-size: 1.5em;
-    margin-top: 15px;
-  }
-  
-  /* Karty */
-  .card {
-    background: #fff;
-    border-radius: 8px;
-    padding: 20px;
-    margin: 10px 0;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease-in-out;
-  }
-  
-  .card:hover {
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
-    transform: translateY(-5px);
-  }
-  
-  /* Animacje */
-  a {
-    color: #1a73e8;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-  
-  a:hover {
-    color: #d32f2f;
-  }
-  
-  /* Responsywność */
-  @media (max-width: 768px) {
-    body {
-      padding: 10px;
-    }
-  
-    h1 {
-      font-size: 2em;
-    }
-  
-    .card {
-      padding: 15px;
-    }
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
   }
   
