@@ -8,11 +8,13 @@
 </head>
 <body>
   {% include header.html %}
+
   <main>
     {{ content }}
-    <button class="contact-btn">Skontaktuj się z nami</button>
   </main>
+
   {% include footer.html %}
+  
   <script>
     function toggleMenu() {
       const nav = document.querySelector('nav');
