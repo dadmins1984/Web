@@ -1,7 +1,22 @@
 ---
 layout: default
-title: "Welcome to My Website"
+title: "Nowoczesna Strona"
 ---
 
-<h1>Welcome to Our Cybersecurity Website</h1>
-<p>This is the main page with some introductory text.</p>
+# Witamy na naszej nowoczesnej stronie!
+
+Dzięki GitHub Pages i Jekyll, strona jest szybka, responsywna i łatwa do zarządzania.
+
+## Cechy strony:
+
+- **Responsywność** - Strona wygląda dobrze na urządzeniach mobilnych i desktopowych.
+- **Prosty design** - Minimalistyczne podejście z dbałością o szczegóły.
+- **Animacje** - Nowoczesne przejścia CSS dla lepszego UX.
+
+## Przykłady użycia
+
+```html
+<div class="card">
+  <h2>Tytuł Karty</h2>
+  <p>To jest przykładowy tekst w karcie.</p>
+</div>
