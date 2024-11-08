@@ -20,25 +20,28 @@
   /* Nagłówek strony */
   header {
     display: flex;
-    justify-content: center; /* Wyśrodkowanie logo */
-    align-items: center; /* Wyrównanie w pionie */
-    padding: 10px 40px; /* Zmniejszenie paddingu */
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px; /* Zwiększony padding */
     background-color: #2c3e50; /* Ciemniejszy odcień granatu */
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 10;
-    height: 60px; /* Zmniejszenie wysokości nagłówka */
+    height: 70px; /* Wysokość nagłówka */
   }
   
   /* Logo */
   header .logo h1 {
-    font-size: 24px; /* Zmniejszenie rozmiaru czcionki */
+    font-size: 26px; /* Zwiększona czcionka logo */
     color: #ecf0f1; /* Jasny szary */
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
+    margin: 0; /* Usuń marginesy wokół logo */
+    text-align: center; /* Wyśrodkowanie tekstu */
+    flex-grow: 1; /* Zapewnia, że logo będzie wyśrodkowane */
   }
   
   /* Nawigacja */
@@ -52,13 +55,13 @@
   }
   
   nav ul li {
-    margin-left: 30px;
+    margin-left: 20px; /* Zmniejszone marginesy */
   }
   
   nav a {
     color: #ecf0f1;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 16px; /* Zwiększona czcionka */
     font-weight: bold;
     text-transform: uppercase;
     padding: 5px 0;
@@ -132,7 +135,7 @@
   }
   
   h1 {
-    font-size: 38px;
+    font-size: 36px;
     color: #ecf0f1;
     margin-bottom: 20px;
     font-weight: 600;
@@ -169,14 +172,14 @@
     background-color: #2c3e50;
     color: #ecf0f1;
     text-align: center;
-    padding: 15px 0; /* Zwiększenie paddingu */
+    padding: 15px 0; /* Zwiększony padding */
     font-size: 14px;
     margin-top: auto; /* Sprawia, że stopka przesuwa się na dół */
     width: 100%; /* Zapewnia pełną szerokość */
     box-sizing: border-box; /* Uwzględnia padding w szerokości */
     display: flex;
-    justify-content: center; /* Wyśrodkowanie treści poziomo */
-    align-items: center; /* Wyśrodkowanie treści pionowo */
+    justify-content: center;
+    align-items: center;
     height: 80px; /* Zwiększona wysokość stopki */
   }
   
@@ -197,8 +200,10 @@
       height: auto; /* Dostosowanie wysokości stopki */
     }
   
-    footer p {
-      margin: 0; /* Usunięcie marginesu */
+    button {
+      margin-top: 20px; /* Przesunięcie przycisku w dół */
+      font-size: 16px; /* Mniejsza czcionka dla przycisku */
+      width: 100%; /* Przycisk rozciąga się na całą szerokość */
     }
   }
   
