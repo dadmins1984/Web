@@ -1,11 +1,15 @@
-<div class="logo">
-    <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="CyberSecure Solutions">
-</div>
-<nav>
-    <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#services">Services</a></li>
-        <li><a href="#contact">Contact</a></li>
-    </ul>
-</nav>
+<header>
+    <div class="logo">
+      <h1>CyberSafe</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Strona Główna</a></li>
+        <li><a href="{{ '/szkolenia' | relative_url }}">Szkolenia</a></li>
+        <li><a href="{{ '/wdrozenia' | relative_url }}">Wdrożenia</a></li>
+        <li><a href="{{ '/przeglady' | relative_url }}">Przeglądy</a></li>
+      </ul>
+    </nav>
+    <div class="hamburger" onclick="toggleMenu()">☰</div>
+  </header>
+  

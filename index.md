@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "Moja Strona"
+title: "CyberSafe - Firma zajmująca się Cyberbezpieczeństwem"
 ---
 
-# Witamy na mojej stronie!
+# Witamy w CyberSafe
 
-To jest przykładowa strona stworzona przy użyciu Jekyll i CSS.
+Jesteśmy firmą specjalizującą się w zapewnianiu kompleksowego bezpieczeństwa cyfrowego. Nasza oferta obejmuje **szkolenia**, **wdrożenia** i **przeglądy** systemów zabezpieczeń. 
+
+## Kontakt
+
+Masz pytania? Skontaktuj się z nami!
+
+Email: [kontakt@cybersafe.pl](mailto:kontakt@cybersafe.pl)

@@ -1,7 +1,7 @@
-title: "My Awesome Site"
-description: "This is a modern Jekyll site"
-url: "https://dadmins1984.github.io/Web"
-baseurl: "" # leave this empty if it's the root of the site
-
-theme: "jekyll-theme-minimal"
-author: "Your Name"
+title: "Firma CyberBezpieczeństwo"
+description: "Profesjonalne usługi w zakresie cyberbezpieczeństwa"
+baseurl: ""
+url: "https://dadmins1984.github.io/Web/"
+markdown: kramdown
+sass:
+  style: compressed

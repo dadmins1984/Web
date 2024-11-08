@@ -7,18 +7,16 @@
   <link rel="stylesheet" href="{{ 'https://dadmins1984.github.io/Web/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
-
+  {% include header.html %}
   <main>
     {{ content }}
   </main>
-
-  <footer>
-    <p>Moja Strona © 2024</p>
-  </footer>
-
+  {% include footer.html %}
+  <script>
+    function toggleMenu() {
+      const nav = document.querySelector('nav');
+      nav.classList.toggle('active');
+    }
+  </script>
 </body>
 </html>
