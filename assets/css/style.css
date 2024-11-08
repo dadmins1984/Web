@@ -14,8 +14,7 @@
     padding: 0;
     min-height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-direction: column;
   }
   
   /* Nagłówek strony */
@@ -35,7 +34,7 @@
   /* Logo */
   header .logo h1 {
     font-size: 30px;
-    color: #ecf0f1; /* Jasny szary - dobry kontrast z ciemnym tłem */
+    color: #ecf0f1; /* Jasny szary */
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -180,5 +179,45 @@
   
   footer a:hover {
     text-decoration: underline;
+  }
+  
+  /* Style sekcji dla podstron */
+  section {
+    margin-top: 100px;
+    padding: 50px 0;
+    background: #1d2b36;
+    color: #ecf0f1;
+  }
+  
+  section h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  section p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 0 auto;
+    color: #bdc3c7;
+  }
+  
+  /* Kolory przycisków */
+  button {
+    background-color: #f39c12;
+    color: white;
+    font-size: 18px;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #e67e22;
   }
   

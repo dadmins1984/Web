@@ -8,10 +8,32 @@
 </head>
 <body>
   {% include header.html %}
+  
   <main>
-    {{ content }}
+    <div class="content-container">
+      <h1>Witamy w CyberSecurity Co.</h1>
+      <p>Twoje zaufane źródło wiedzy na temat cyberbezpieczeństwa. Oferujemy szkolenia, wdrożenia systemów zabezpieczeń i audyty bezpieczeństwa, które chronią Twoje dane.</p>
+      <button>Skontaktuj się z nami</button>
+    </div>
+
+    <section id="training">
+      <h2>Szkolenia</h2>
+      <p>Nasze szkolenia z zakresu cyberbezpieczeństwa pomogą Ci i Twojemu zespołowi zrozumieć zagrożenia i metody obrony w świecie online.</p>
+    </section>
+
+    <section id="deployments">
+      <h2>Wdrożenia</h2>
+      <p>Zapewniamy kompleksowe wdrożenia systemów zabezpieczeń, które skutecznie chronią Twoją organizację przed cyberzagrożeniami.</p>
+    </section>
+
+    <section id="audits">
+      <h2>Audyty Bezpieczeństwa</h2>
+      <p>Przeprowadzamy szczegółowe audyty bezpieczeństwa, pomagając w wykrywaniu luk i wprowadzeniu niezbędnych poprawek.</p>
+    </section>
   </main>
+
   {% include footer.html %}
+  
   <script>
     function toggleMenu() {
       const nav = document.querySelector('nav');
