@@ -1,11 +1,12 @@
 ---
 layout: default
-title: "CyberSecurity Co."
+title: "Another Sec Company."
 ---
 
-# Witamy w CyberSecurity Co.
+# Cześć co to jest ASC?
 
-Jako liderzy w dziedzinie cyberbezpieczeństwa, oferujemy kompleksowe usługi w zakresie zabezpieczeń IT, audytów oraz szkoleń dla Twojej firmy.
+Od wielu lat zajmuję się zagadnieniami z zakresu cyberbezpieczeństwa, <br>
+moim głównym zajęciem jest zabezpieczenie firmy przed nieautoryzowanym dostępem.
 
 ## Nasze usługi:
 
