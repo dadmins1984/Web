@@ -1,12 +1,7 @@
-title: "Nowoczesna Strona"
+title: "My Awesome Site"
 description: "This is a modern Jekyll site"
-url: "https://dadmins1984.github.io/Web/
+url: "https://dadmins1984.github.io/Web"
 baseurl: "" # leave this empty if it's the root of the site
 
-# The theme you're using
-theme: jekyll-theme-minimal
-
-
-
-
-
+theme: "jekyll-theme-minimal"
+author: "Your Name"
