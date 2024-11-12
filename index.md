@@ -5,9 +5,10 @@ title: "Main."
 
 # Another Sec Company.
 
-| **PL**  | **EN**  |
+| **Język**  | **Opis**  |
 |------------|-----------|
-| Od wielu lat zajmuję się zagadnieniami z zakresu cyberbezpieczeństwa, moim głównym zajęciem jest zabezpieczenie firmy przed nieautoryzowanym dostępem. | For many years, I have been working on cybersecurity issues. My main job is to protect companies from unauthorized access. |
+|**Polski** | Od wielu lat zajmuję się zagadnieniami z zakresu cyberbezpieczeństwa, moim głównym zajęciem jest zabezpieczenie firmy przed nieautoryzowanym dostępem.| 
+|**English**| For many years, I have been working on cybersecurity issues. My main job is to protect companies from unauthorized access.|
 
 ## Nasze usługi:
 
