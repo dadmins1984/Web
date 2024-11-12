@@ -68,7 +68,6 @@ header .logo img {
     }
 }
 
-
 /* Nawigacja */
 nav {
     display: flex;
@@ -211,6 +210,17 @@ footer {
     height: 80px;
 }
 
+/* Stylizacja linków w całej stronie */
+a {
+    color: #f39c12; /* Kolor linku */
+    text-decoration: none; /* Usunięcie podkreślenia z linku */
+}
+
+a:hover {
+    text-decoration: underline; /* Podkreślenie linku po najechaniu */
+    color: #e67e22; /* Zmiana koloru linku na ciemniejszy pomarańczowy */
+}
+
 footer a {
     color: #f39c12;
     text-decoration: none;
@@ -218,6 +228,7 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
+    color: #e67e22;
 }
 
 /* Zmiany dla urządzeń mobilnych */
