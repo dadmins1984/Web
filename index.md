@@ -7,8 +7,7 @@ title: "Main."
 
 | **PL**  | **EN**  |
 |------------|-----------|
-| Od wielu lat zajmuję się zagadnieniami z zakresu cyberbezpieczeństwa, <br>
-moim głównym zajęciem jest zabezpieczenie firmy przed nieautoryzowanym dostępem. | For many years, I have been working on cybersecurity issues. <br> My main job is to protect companies from unauthorized access. |
+| Od wielu lat zajmuję się zagadnieniami z zakresu cyberbezpieczeństwa, moim głównym zajęciem jest zabezpieczenie firmy przed nieautoryzowanym dostępem. | For many years, I have been working on cybersecurity issues. My main job is to protect companies from unauthorized access. |
 
 ## Nasze usługi:
 
