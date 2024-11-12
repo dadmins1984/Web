@@ -3,7 +3,7 @@ layout: default
 title: "Main."
 ---
 
-# Cześć co to jest ASC?
+# Another Sec Company.
 
 | **PL**  | **EN**  |
 |------------|-----------|
