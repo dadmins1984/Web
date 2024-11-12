@@ -14,6 +14,6 @@ title: "Main."
 
 | **Nazwa** | **Opis** |
 |:----------|:---------|
-|[Szkolenia z cybersec](https://dadmins1984.github.io/Web/training)|Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji!|
-|[Przegląd i wsparcie IT](https://dadmins1984.github.io/Web/audits)|Dokładna analiza infrastruktury, doradztwo, pomoc w łataniach problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.|
-|[Integracja systemów](https://dadmins1984.github.io/Web/deployments)|Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamością, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.|
+|[Szkolenia z cybersec](https://dadmins1984.github.io/Web/training)|[Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji!] (https://dadmins1984.github.io/Web/training)|
+|[Przegląd i wsparcie IT](https://dadmins1984.github.io/Web/audits)|[Dokładna analiza infrastruktury, doradztwo, pomoc w łataniach problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.] (https://dadmins1984.github.io/Web/audits)|
+|[Integracja systemów](https://dadmins1984.github.io/Web/deployments)|[Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamością, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.] (https://dadmins1984.github.io/Web/deployments)|
