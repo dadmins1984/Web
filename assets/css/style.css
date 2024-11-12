@@ -39,25 +39,32 @@ header .logo h1 {
     flex-grow: 1;
 }
 
-/* Stylizowanie samego obrazu logo */
+/* Responsywność dla logo */
 header .logo img {
-    max-width: 100%;  /* Maksymalna szerokość logo to 100% szerokości kontenera */
-    height: auto;  /* Zachowanie proporcji */
-    width: auto;   /* Automatyczna szerokość, by utrzymać proporcje */
-    display: block; /* Zapewnia, że obraz będzie traktowany jako blokowy element */
+    max-width: 100%; /* Logo nie będzie większe niż szerokość kontenera */
+    height: auto; /* Zachowa proporcje */
+    display: block; /* Obrazek traktowany jako element blokowy */
     margin: 0 auto; /* Wyśrodkowanie logo */
 }
 
-/* Responsywność: dopasowanie logo w zależności od rozdzielczości */
-@media (max-width: 768px) {
-    header .logo img {
-        max-width: 80%; /* Logo może być nieco mniejsze na mniejszych ekranach */
+/* Styl dla większych ekranów */
+@media (max-width: 1024px) {
+    .responsive-logo {
+        max-width: 80%; /* Logo zmniejsza się na ekranach do 1024px */
     }
 }
 
+/* Styl dla średnich ekranów (np. tablety) */
+@media (max-width: 768px) {
+    .responsive-logo {
+        max-width: 70%; /* Logo zmniejsza się na tabletach */
+    }
+}
+
+/* Styl dla małych ekranów (np. telefony) */
 @media (max-width: 480px) {
-    header .logo img {
-        max-width: 60%; /* Logo może być jeszcze mniejsze na bardzo małych ekranach */
+    .responsive-logo {
+        max-width: 50%; /* Logo będzie jeszcze mniejsze na telefonach */
     }
 }
 
