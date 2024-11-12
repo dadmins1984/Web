@@ -249,3 +249,53 @@ button {
 button:hover {
     background-color: #e67e22;
 }
+
+table {
+    width: 80%; /* Szerokość tabeli */
+    margin: 50px auto; /* Wypośrodkowanie tabeli na stronie */
+    border-collapse: collapse; /* Zlewanie granic komórek */
+    background-color: #34495e; /* Tło tabeli w ciemnoszarym kolorze */
+    border-radius: 8px; /* Zaokrąglenie rogów tabeli */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Dodanie cienia do tabeli */
+}
+
+/* Stylizacja nagłówków tabeli */
+th {
+    padding: 15px 20px;
+    background-color: #2c3e50; /* Ciemniejszy szary kolor dla nagłówków */
+    color: #ecf0f1; /* Jasny kolor tekstu */
+    text-align: center; /* Wyśrodkowanie tekstu w nagłówkach */
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Stylizacja komórek tabeli */
+td {
+    padding: 15px 20px;
+    text-align: center; /* Wyśrodkowanie tekstu w komórkach */
+    color: #ecf0f1; /* Jasny kolor tekstu */
+    font-size: 16px;
+    border-top: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
+    border-left: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
+}
+
+/* Kolorowanie komórek w tabeli */
+tr:nth-child(even) {
+    background-color: #34495e; /* Ciemniejsze tło dla parzystych wierszy */
+}
+
+tr:hover {
+    background-color: #f39c12; /* Zmiana tła wiersza na pomarańczowe przy najechaniu */
+    cursor: pointer; /* Zmiana kursora na wskaźnik przy najechaniu */
+}
+
+/* Usunięcie granicy prawej komórki */
+td:last-child, th:last-child {
+    border-right: none;
+}
+
+/* Wyrównanie tabeli do środka */
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
