@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Another Sec Company."
+title: "Main."
 ---
 
 # Cześć co to jest ASC?
