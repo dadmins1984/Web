@@ -34,14 +34,31 @@ header {
 
 /* Logo */
 header .logo h1 {
-    font-size: 26px;
-    color: #ecf0f1;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1px;
     margin: 0;
     text-align: center;
     flex-grow: 1;
+}
+
+/* Stylizowanie samego obrazu logo */
+header .logo img {
+    max-width: 100%;  /* Maksymalna szerokość logo to 100% szerokości kontenera */
+    height: auto;  /* Zachowanie proporcji */
+    width: auto;   /* Automatyczna szerokość, by utrzymać proporcje */
+    display: block; /* Zapewnia, że obraz będzie traktowany jako blokowy element */
+    margin: 0 auto; /* Wyśrodkowanie logo */
+}
+
+/* Responsywność: dopasowanie logo w zależności od rozdzielczości */
+@media (max-width: 768px) {
+    header .logo img {
+        max-width: 80%; /* Logo może być nieco mniejsze na mniejszych ekranach */
+    }
+}
+
+@media (max-width: 480px) {
+    header .logo img {
+        max-width: 60%; /* Logo może być jeszcze mniejsze na bardzo małych ekranach */
+    }
 }
 
 /* Nawigacja */
