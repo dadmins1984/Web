@@ -250,67 +250,46 @@ button:hover {
     background-color: #e67e22;
 }
 
-/* Resetowanie domyślnych styli */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* Tabela */
 table {
     width: 80%; /* Szerokość tabeli */
-    margin: 50px auto; /* Wypośrodkowanie tabeli */
-    border-collapse: separate; /* Oddzielone granice */
-    border-spacing: 0; /* Brak odstępów między komórkami */
+    margin: 50px auto; /* Wypośrodkowanie tabeli na stronie */
+    border-collapse: collapse; /* Zlewanie granic komórek */
     background-color: #34495e; /* Tło tabeli w ciemnoszarym kolorze */
-    border-radius: 12px; /* Zaokrąglenie rogów tabeli */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Subtelny cień */
-    overflow: hidden; /* Ukrycie wystających elementów poza zaokrąglone rogi */
+    border-radius: 8px; /* Zaokrąglenie rogów tabeli */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Dodanie cienia do tabeli */
 }
 
-/* Nagłówki tabeli */
+/* Stylizacja nagłówków tabeli */
 th {
-    padding: 20px 25px;
+    padding: 15px 20px;
     background-color: #2c3e50; /* Ciemniejszy szary kolor dla nagłówków */
     color: #ecf0f1; /* Jasny kolor tekstu */
-    text-align: center; /* Wyśrodkowanie tekstu */
+    text-align: center; /* Wyśrodkowanie tekstu w nagłówkach */
     font-size: 18px;
     font-weight: bold;
-    text-transform: uppercase; /* Wyróżnienie nagłówków dużymi literami */
-    letter-spacing: 1px; /* Odstępy między literami */
 }
 
-/* Komórki tabeli */
+/* Stylizacja komórek tabeli */
 td {
     padding: 15px 20px;
-    text-align: center; /* Wyśrodkowanie tekstu */
+    text-align: center; /* Wyśrodkowanie tekstu w komórkach */
     color: #ecf0f1; /* Jasny kolor tekstu */
     font-size: 16px;
-    background-color: #34495e; /* Tło komórek */
     border-top: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
-    border-left: 1px solid #7f8c8d; /* Granice komórek */
-    transition: background-color 0.3s ease, transform 0.3s ease; /* Płynna zmiana tła i transformacja */
+    border-left: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
 }
 
-/* Zmiana koloru tła dla parzystych wierszy */
+/* Kolorowanie komórek w tabeli */
 tr:nth-child(even) {
-    background-color: #3b4a60; /* Jaśniejsze tło dla parzystych wierszy */
+    background-color: #34495e; /* Ciemniejsze tło dla parzystych wierszy */
 }
 
-/* Stylizacja po najechaniu na wiersz */
 tr:hover {
-    background-color: #f39c12; /* Pomarańczowe tło na hover */
-    cursor: pointer; /* Zmiana kursora na wskaźnik */
+    background-color: #f39c12; /* Zmiana tła wiersza na pomarańczowe przy najechaniu */
+    cursor: pointer; /* Zmiana kursora na wskaźnik przy najechaniu */
 }
 
-/* Zmiana koloru tła dla komórek po najechaniu */
-td:hover {
-    background-color: #f39c12; /* Pomarańczowe tło komórki */
-    transform: scale(1.05); /* Efekt powiększenia */
-}
-
-/* Usunięcie granicy prawej komórki w ostatnich kolumnach */
+/* Usunięcie granicy prawej komórki */
 td:last-child, th:last-child {
     border-right: none;
 }
@@ -319,15 +298,4 @@ td:last-child, th:last-child {
 table {
     margin-left: auto;
     margin-right: auto;
-}
-
-/* Stylizacja dla urządzeń mobilnych (reaktywność) */
-@media (max-width: 768px) {
-    table {
-        width: 100%; /* Rozciąganie tabeli na całą szerokość */
-    }
-
-    th, td {
-        padding: 12px 15px; /* Zmniejszenie paddingu na urządzeniach mobilnych */
-    }
 }
