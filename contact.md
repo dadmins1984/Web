@@ -5,12 +5,11 @@ title: "Contact"
 
 # Masz pytania?
 
-Napisz<br>
+Napisz
 
 ## ASC:
 
 - Email: <a onclick="window.location.href = 'mailto:{{ site.contact.email }}';">{{ site.contact.email }} </a>
-<br>
 - Telefon: <a onclick="window.location.href = 'tel:{{ site.contact.phone }}';">{{ site.contact.phone }} </a>
 
 <br><br>
