@@ -16,7 +16,7 @@ plugins:
   - jekyll-seo-tag
 
 favicon: https://dadmins1984.github.io/Web/assets/images/favicon.ico
-logo: https://dadmins1984.github.io/Web/assets/images/favicon-16x16.png
+logo: https://dadmins1984.github.io/Web/assets/images/logo.png
 
 contact:
   email: kontakt@twojadomena.com

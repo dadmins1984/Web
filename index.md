@@ -3,7 +3,8 @@ layout: default
 title: "Main."
 ---
 
-# Another Sec Company.
+![Logo]({{ site.logo }})
+
 
 | **Język**  | **Opis**  |
 |------------|-----------|
