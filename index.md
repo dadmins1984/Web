@@ -3,11 +3,7 @@ layout: default
 title: "Main."
 ---
 
-<header>
-  <div class="logo">
-    <img src="{{ site.logo }}" alt="Logo" class="responsive-logo">
-  </div>
-</header>
+![Logo]({{ site.logo }}){: .responsive-logo }
 
 
 | **Język**  | **Opis**  |
