@@ -47,26 +47,27 @@ header .logo img {
     margin: 0 auto; /* Wyśrodkowanie logo */
 }
 
-/* Styl dla większych ekranów */
-@media (max-width: 1024px) {
+/* Styl dla dużych ekranów (komputery) */
+@media (min-width: 1025px) {
     .responsive-logo {
-        max-width: 80%; /* Logo zmniejsza się na ekranach do 1024px */
+        max-width: 60%; /* Logo mniejsze na komputerach */
     }
 }
 
 /* Styl dla średnich ekranów (np. tablety) */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .responsive-logo {
-        max-width: 70%; /* Logo zmniejsza się na tabletach */
+        max-width: 75%; /* Logo zmniejsza się na tabletach */
     }
 }
 
 /* Styl dla małych ekranów (np. telefony) */
 @media (max-width: 480px) {
     .responsive-logo {
-        max-width: 50%; /* Logo będzie jeszcze mniejsze na telefonach */
+        max-width: 90%; /* Logo będzie większe na telefonach */
     }
 }
+
 
 /* Nawigacja */
 nav {
