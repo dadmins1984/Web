@@ -3,15 +3,14 @@ layout: default
 title: "Contact"
 ---
 
-## Masz pytania?
+# Masz pytania?
 
-Napisz Do nas<br>
+Napisz<br>
 
 ## ASC:
 
-- dsajidojasio
-- dksoapkdop
-- djsiaodsjaio
+- tel: 84920842390
+- mail: fjiefo@fjeiojfeio
 
 <br><br>
-<button><a href="mailto:kontakt@twojafirma.pl">Skontaktuj się z nami</a></button>
+<button onclick="window.location.href = 'mailto:kontakt@twojafirma.pl';">Skontaktuj się z nami</button>
