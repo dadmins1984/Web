@@ -27,7 +27,10 @@ title: "Kontakt"
 
     <h2>Kalendarz Google</h2>
     <iframe src="https://calendar.google.com/calendar/embed?src=twojafirma@gmail.com&ctz=Europe%2FWarsaw" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+    <!-- Przycisk powrotu do strony głównej -->
+    <div class="back-btn-container">
+      <a href="/" class="button">Wróć na stronę główną</a>
+    </div>
   </div>
 </main>
-
-{% include footer.html %}
