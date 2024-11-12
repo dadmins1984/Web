@@ -14,7 +14,7 @@ title: "Main."
 
 | **Nazwa** | **Opis** |
 |:----------|:---------|
-|Szkolenia z cyberbezpieczeństwa|Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji!|
+|Szkolenia z cybersec|Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji!|
 |Przegląd i wsparcie IT|Dokładna analiza infrastruktury, doradztwo, pomoc w łataniach problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.|
 |Integracja systemów|Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamością, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.|
 
