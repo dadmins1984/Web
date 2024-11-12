@@ -18,7 +18,8 @@ plugins:
 favicon: https://dadmins1984.github.io/Web/assets/images/favicon.ico
 logo: https://dadmins1984.github.io/Web/assets/images/logo.png
 logo_min: https://dadmins1984.github.io/Web/assets/images/logo_min.png
-
+logo_jekyll: https://dadmins1984.github.io/Web/assets/images/jekyll.png
+logo_github: https://dadmins1984.github.io/Web/assets/images/github.png
 
 contact:
   email: kontakt@twojadomena.com
