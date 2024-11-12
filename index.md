@@ -15,4 +15,4 @@ moim głównym zajęciem jest zabezpieczenie firmy przed nieautoryzowanym dostę
 - **Audyt bezpieczeństwa** – Zidentyfikuj i napraw luki w systemie.
 
 <br><br>
-<button>Skontaktuj się z nami</button>
+<button onclick="window.location.href = 'mailto:{{ site.contact.email }}';">Skontaktuj się z nami</button>

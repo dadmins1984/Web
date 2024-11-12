@@ -9,9 +9,8 @@ Napisz<br>
 
 ## ASC:
 
-- <p>Email: {{ site.contact.email }}</p>
-- <p>Telefon: {{ site.contact.phone }}</p>
-- <p>Adres: {{ site.contact.address }}</p>
+- Email: {{ site.contact.email }}
+- Telefon: {{ site.contact.phone }}
 
 <br><br>
-<button onclick="window.location.href = 'mailto:kontakt@twojafirma.pl';">Skontaktuj się z nami</button>
+<button onclick="window.location.href = 'mailto:{{ site.contact.email }}';">Skontaktuj się z nami</button>

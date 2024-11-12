@@ -22,7 +22,6 @@ logo: /assets/images/logo.png
 contact:
   email: kontakt@twojadomena.com
   phone: "+48 123 456 789"
-  address: "ul. Bezpieczna 1, 00-000 Warszawa"
 
 exclude:
   - Gemfile
