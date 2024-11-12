@@ -14,7 +14,4 @@ Napisz Do nas<br>
 - djsiaodsjaio
 
 <br><br>
-<div class="button-container">
-  <button>Skontaktuj się z nami</button>
-  <button>Inna akcja</button>
-</div>
+<button><a href="mailto:kontakt@twojafirma.pl">Skontaktuj się z nami</a></button>
