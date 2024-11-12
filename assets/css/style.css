@@ -250,23 +250,28 @@ button:hover {
     background-color: #e67e22;
 }
 
+/* Stylizacja tabeli */
 table {
     width: 80%; /* Szerokość tabeli */
     margin: 50px auto; /* Wypośrodkowanie tabeli na stronie */
-    border-collapse: collapse; /* Zlewanie granic komórek */
+    border-collapse: separate; /* Rozdzielenie granic komórek */
+    border-spacing: 0; /* Usunięcie odstępów między komórkami */
     background-color: #34495e; /* Tło tabeli w ciemnoszarym kolorze */
-    border-radius: 8px; /* Zaokrąglenie rogów tabeli */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Dodanie cienia do tabeli */
+    border-radius: 12px; /* Zaokrąglenie rogów tabeli */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Większy cień, bardziej subtelny */
+    overflow: hidden; /* Ukrycie elementów wystających poza zaokrąglone rogi */
 }
 
 /* Stylizacja nagłówków tabeli */
 th {
-    padding: 15px 20px;
+    padding: 20px 25px;
     background-color: #2c3e50; /* Ciemniejszy szary kolor dla nagłówków */
     color: #ecf0f1; /* Jasny kolor tekstu */
     text-align: center; /* Wyśrodkowanie tekstu w nagłówkach */
     font-size: 18px;
     font-weight: bold;
+    text-transform: uppercase; /* Wyróżnienie nagłówków dużymi literami */
+    letter-spacing: 1px; /* Odstępy między literami */
 }
 
 /* Stylizacja komórek tabeli */
@@ -277,11 +282,13 @@ td {
     font-size: 16px;
     border-top: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
     border-left: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
+    background-color: #34495e; /* Tło komórek */
+    transition: background-color 0.3s ease; /* Płynna zmiana tła przy najechaniu */
 }
 
 /* Kolorowanie komórek w tabeli */
 tr:nth-child(even) {
-    background-color: #34495e; /* Ciemniejsze tło dla parzystych wierszy */
+    background-color: #3b4a60; /* Ciut jaśniejszy szary dla parzystych wierszy */
 }
 
 tr:hover {
@@ -289,13 +296,40 @@ tr:hover {
     cursor: pointer; /* Zmiana kursora na wskaźnik przy najechaniu */
 }
 
-/* Usunięcie granicy prawej komórki */
+/* Stylizacja dla pierwszej kolumny, wyróżnienie jej bardziej */
+td:first-child {
+    font-weight: bold;
+    background-color: #2c3e50; /* Ciemniejsze tło dla pierwszej kolumny */
+    border-right: 1px solid #7f8c8d; /* Granice prawej komórki w pierwszej kolumnie */
+}
+
+/* Usunięcie granicy prawej komórki w ostatnich kolumnach */
 td:last-child, th:last-child {
     border-right: none;
 }
 
-/* Wyrównanie tabeli do środka */
+/* Zwiększenie odstępów w wierszach */
+tr {
+    transition: background-color 0.3s ease; /* Płynna zmiana tła w wierszach */
+}
+
+/* Stylizacja tabeli, wyrównanie do środka */
 table {
     margin-left: auto;
     margin-right: auto;
+}
+
+/* Dodatkowy efekt po najechaniu na komórkę (delikatny cień) */
+td:hover {
+    box-shadow: 0 0 10px rgba(243, 156, 18, 0.5); /* Pomarańczowy cień po najechaniu */
+}
+
+/* Dodanie stylu na małych ekranach (reaktywność) */
+@media (max-width: 768px) {
+    table {
+        width: 100%; /* Rozciąganie tabeli na całą szerokość */
+    }
+    th, td {
+        padding: 12px 15px; /* Zmniejszenie paddingu na urządzeniach mobilnych */
+    }
 }
