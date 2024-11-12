@@ -50,14 +50,14 @@ header .logo img {
 /* Styl dla dużych ekranów (komputery) */
 @media (min-width: 1025px) {
     .responsive-logo {
-        max-width: 21%; /* Logo mniejsze na komputerach */
+        max-width: 30%; /* Logo mniejsze na komputerach */
     }
 }
 
 /* Styl dla średnich ekranów (np. tablety) */
 @media (max-width: 1024px) {
     .responsive-logo {
-        max-width: 35%; /* Logo zmniejsza się na tabletach */
+        max-width: 45%; /* Logo zmniejsza się na tabletach */
     }
 }
 
@@ -321,7 +321,7 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-    background-color: #000000; /* Zmiana tła wiersza na pomarańczowe przy najechaniu */
+    background-color: #1d2b36; /* Zmiana tła wiersza na pomarańczowe przy najechaniu */
     cursor: pointer; /* Zmiana kursora na wskaźnik przy najechaniu */
 }
 
