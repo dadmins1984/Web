@@ -321,7 +321,7 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-    background-color: #f39c12; /* Zmiana tła wiersza na pomarańczowe przy najechaniu */
+    background-color: #000000; /* Zmiana tła wiersza na pomarańczowe przy najechaniu */
     cursor: pointer; /* Zmiana kursora na wskaźnik przy najechaniu */
 }
 
