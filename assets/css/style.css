@@ -50,7 +50,7 @@ header .logo img {
 /* Styl dla dużych ekranów (komputery) */
 @media (min-width: 1025px) {
     .responsive-logo {
-        max-width: 25%; /* Logo mniejsze na komputerach */
+        max-width: 15%; /* Logo mniejsze na komputerach */
     }
 }
 
