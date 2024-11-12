@@ -16,8 +16,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-favicon: /assets/images/favicon.ico
-logo: /assets/images/favicon-16x16.png
+favicon: https://dadmins1984.github.io/Web/assets/images/favicon.ico
+logo: https://dadmins1984.github.io/Web/assets/images/favicon-16x16.png
 
 contact:
   email: kontakt@twojadomena.com
