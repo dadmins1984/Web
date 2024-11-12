@@ -3,27 +3,44 @@ layout: default
 title: "Kontakt"
 ---
 
-<header>
-  <h1>Skontaktuj się z nami</h1>
-</header>
+# Skontaktuj się z nami
 
-<div class="container">
-  <p>Chciałbyś umówić wizytę? Skorzystaj z formularza poniżej lub zobacz nasz kalendarz.</p>
+<div class="contact-page">
+  <div class="container">
+    <p>Chciałbyś umówić wizytę? Skorzystaj z formularza poniżej lub skontaktuj się z nami bezpośrednio.</p>
 
-  <h2>Formularz rezerwacji wizyty</h2>
-  <form>
-    <label for="name">Imię:</label>
-    <input type="text" id="name" name="name" class="form-input" placeholder="Twoje imię" required>
+    ## Formularz rezerwacji wizyty
+    <form>
+      <label for="name">Imię i nazwisko:</label>
+      <input type="text" id="name" name="name" class="form-input" placeholder="Twoje imię i nazwisko" required>
 
-    <label for="date">Data:</label>
-    <input type="date" id="date" name="date" class="form-input" required>
+      <label for="contact-type">Wybierz sposób kontaktu:</label>
+      <select id="contact-type" name="contact-type" class="form-input">
+        <option value="email">Napisz email</option>
+        <option value="call">Zadzwoń</option>
+      </select>
 
-    <label for="time">Czas:</label>
-    <input type="time" id="time" name="time" class="form-input" required>
+      <label for="date">Wybierz datę wizyty:</label>
+      <input type="date" id="date" name="date" class="form-input" required>
+      <p>Wszystkie wydarzenia są całodniowe.</p>
 
-    <button type="submit" class="button">Zarezerwuj wizytę</button>
-  </form>
+      <button type="submit">Zarezerwuj wizytę</button>
+    </form>
 
-  <h2>Kalendarz Google</h2>
-  <iframe src="https://calendar.google.com/calendar/embed?src=ff7bbac4e1af47aeff59093de63c757f6f762ff9052f8721710af929a8fb7712%40group.calendar.google.com&ctz=Europe%2FWarsaw" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    ## Nasze dane kontaktowe
+    <div class="company-details">
+      <p><strong>Firma XYZ</strong></p>
+      <p>Adres: ul. Przykładowa 12, 00-123 Warszawa</p>
+      <p>Telefon: +48 123 456 789</p>
+      <p>Email: kontakt@firma.xyz</p>
+    </div>
+
+    ## Kalendarz Google
+    <p>Sprawdź dostępność w naszym kalendarzu:</p>
+    <iframe src="https://calendar.google.com/calendar/embed?src=twojafirma@gmail.com&ctz=Europe%2FWarsaw" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
 </div>
+
+<footer>
+  <p>&copy; 2024 Firma XYZ. Wszystkie prawa zastrzeżone.</p>
+</footer>
