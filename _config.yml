@@ -17,7 +17,7 @@ plugins:
   - jekyll-seo-tag
 
 favicon: /assets/images/favicon.ico
-logo: /assets/images/logo.png
+logo: /assets/images/favicon-16x16.png
 
 contact:
   email: kontakt@twojadomena.com
