@@ -25,5 +25,5 @@ title: "Kontakt"
   </form>
 
   <h2>Kalendarz Google</h2>
-  <iframe src="https://calendar.google.com/calendar/embed?src=twojafirma@gmail.com&ctz=Europe%2FWarsaw" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?src=ff7bbac4e1af47aeff59093de63c757f6f762ff9052f8721710af929a8fb7712%40group.calendar.google.com&ctz=Europe%2FWarsaw" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
