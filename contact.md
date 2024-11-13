@@ -3,9 +3,11 @@ layout: default
 title: "Contact"
 ---
 
-# Skontaktuj się ze mną
+# Skontaktuj się z ASC
 
 ## Masz pytania? Jestem tutaj, aby pomóc!
+
+<br>
 
 Niezależnie od tego, czy masz pytania dotyczące moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej – zapraszam do kontaktu!
 
