@@ -20,7 +20,7 @@ Brak wdrożonego systemu zarządzania tożsamościami? Żaden problem. Oferuję:
 
 Bezpieczeństwo zaczyna się od kontroli – wiesz, kto ma dostęp, kiedy i do czego. Dobrze zintegrowany system IAM to:
 - **Spokój i porządek** – pełna kontrola nad użytkownikami i ich dostępem.
-- **Wygoda i efektywność** – łatwiejsza praca dla działu HR i zarządzających.
+- **Wygoda i efektywność** – łatwiejsza praca dla działu HR i zarządzających.<br><br>
 
 ---
 
