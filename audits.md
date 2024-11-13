@@ -10,13 +10,17 @@ Bezpieczeństwo cyfrowe zaczyna się od solidnych fundamentów. Regularna analiz
 - **Identyfikację słabych punktów** – aby zagrożenia nie miały szans rozwoju.
 - **Poprawę zabezpieczeń** – wdrożenie praktycznych rozwiązań, które chronią firmę przed cyberatakami.
 - **Doradztwo i współpracę z zespołem IT** – wsparcie w implementacji najlepszych praktyk i poprawek.
-<br>
+
+<br><br><br><br>
+
 ### Jak to działa?
 
 - **Analiza obecnej infrastruktury** – dokładna ocena wszystkich elementów IT w Twojej firmie.
 - **Raport i rekomendacje** – dostarczam szczegółowy raport zawierający wykryte problemy i konkretne zalecenia.
 - **Pomoc we wdrożeniu poprawek** – wspieram Twój zespół IT w łataniach luk i wdrażaniu najlepszych praktyk.
 - **Usługa naprawcza** – dla firm bez dedykowanego zespołu IT oferuję jednorazową naprawę krytycznych podatności na indywidualnych warunkach.
+
+<br><br><br><br>
 
 ### Brak zespołu IT? Nie ma problemu!
 
