@@ -18,7 +18,7 @@ title: "Trainings"
 |**Przedszkoleniowe ataki phishingowe** – przetestuj gotowość swojego zespołu przed szkoleniem.|
 |**Symulacje z „podrzuconymi” pendrive’ami** – dowiedz się, jak Twoi pracownicy reagują na potencjalne zagrożenia.|
 
-## Dlaczego warto?
+### Dlaczego warto?
 
 Cyberbezpieczeństwo to nie tylko zbiór zasad to misja którą można realizować z w luźny i przyjemny sposób. <br> Moje szkolenia są zarówno pouczające, jak i angażujące, bo wiedza lepiej wchodzi do głowy, gdy uczymy się w przystępny sposób.
 
