@@ -3,10 +3,13 @@ layout: default
 title: "Contact"
 ---
 
+# Skontaktuj się ze mną
 
-# Masz pytania? Jestem tutaj, aby pomóc!
+## Masz pytania? Jestem tutaj, aby pomóc!
 
-## Niezależnie od tego, czy masz pytania dotyczące moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej – zapraszam do kontaktu!
+Niezależnie od tego, czy masz pytania dotyczące moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej – zapraszam do kontaktu!
+
+<br><br>
 
 ### Dane kontaktowe:
 - **Email**: [{{ site.contact.email }}](mailto:{{ site.contact.email }})
