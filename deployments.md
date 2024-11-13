@@ -16,8 +16,8 @@ title: "Deployments"
 ### Co, jeśli nie masz systemu zarządzania użytkownikami?
 Brak wdrożonego systemu zarządzania tożsamościami? Żaden problem. 
 
-|W ramach moich usług możesz otrzymać:|
-|------------------------------------|
+|W ramach moich usług otrzymasz:|
+|-------------------------------|
 |**Doradztwo i dobór odpowiednich rozwiązań** – pomożemy Ci wybrać platformę, która spełni oczekiwania Twojego zespołu IT, managementu i HR.|
 |**Pełne wdrożenie** – zajmuję się kompleksową instalacją i konfiguracją systemu, aby Twoja firma mogła działać sprawnie i bezpiecznie.|
 
