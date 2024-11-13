@@ -13,8 +13,6 @@ title: "Audits"
 |**Poprawę zabezpieczeń** – wdrożenie praktycznych rozwiązań, które chronią firmę przed cyberatakami.|
 |**Doradztwo i współpracę z zespołem IT** – wsparcie w implementacji najlepszych praktyk i poprawek.|
 
-## Jak to działa?
-
 |Usługi:|
 |-------|
 |**Analiza obecnej infrastruktury** – dokładna ocena wszystkich elementów IT w Twojej firmie.|
