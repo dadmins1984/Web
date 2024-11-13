@@ -9,7 +9,7 @@ title: "Contact"
 
 Niezależnie od tego, czy masz pytania dotyczące moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej – zapraszam do kontaktu!
 
-<br><br>
+<br>
 
 ### Dane kontaktowe:
 - **Email**: [{{ site.contact.email }}](mailto:{{ site.contact.email }})
