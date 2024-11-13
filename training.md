@@ -9,7 +9,7 @@ title: "Trainings"
 
 |Co oferuję?|
 |-----------|
-|**Szkolenia online** – interaktywne zajęcia - Idealne do nauki w biurze czy w domowych kapciach.|
+|**Szkolenia online** – security awareness - interaktywne zajęcia, Idealne do nauki w biurze czy w domowych kapciach.|
 |**Szkolenia stacjonarne** – pełne doświadczenie z pokazami ataków na żywo. Zobaczysz jak działają realne zagrożenia i nauczysz się, jak się przed nimi bronić.|
 
 |Co wyróżnia moje szkolenia?|

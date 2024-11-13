@@ -8,7 +8,7 @@
 /* Tło strony */
 body {
     font-family: 'Roboto', sans-serif;
-    background: #1d2b36; /* Ciemny niebieski z nutą granatu */
+    background: #1d2b36;
     color: #f0f0f0;
     line-height: 1.6;
     padding: 0;
@@ -22,14 +22,14 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 30px; /* Zwiększony padding */
-    background-color: #2c3e50; /* Ciemniejszy odcień granatu */
+    padding: 10px 30px;
+    background-color: #2c3e50;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 10;
-    height: 70px; /* Wysokość nagłówka */
+    height: 70px;
 }
 
 /* Logo */
@@ -41,30 +41,27 @@ header .logo h1 {
 
 /* Responsywność dla logo */
 header .logo img {
-    max-width: 100%; /* Logo nie będzie większe niż szerokość kontenera */
-    height: auto; /* Zachowa proporcje */
-    display: block; /* Obrazek traktowany jako element blokowy */
-    margin: 0 auto; /* Wyśrodkowanie logo */
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
-/* Styl dla dużych ekranów (komputery) */
 @media (min-width: 1025px) {
     .responsive-logo {
-        max-width: 27%; /* Logo mniejsze na komputerach */
+        max-width: 27%;
     }
 }
 
-/* Styl dla średnich ekranów (np. tablety) */
 @media (max-width: 1024px) {
     .responsive-logo {
-        max-width: 45%; /* Logo zmniejsza się na tabletach */
+        max-width: 45%;
     }
 }
 
-/* Styl dla małych ekranów (np. telefony) */
 @media (max-width: 480px) {
     .responsive-logo {
-        max-width: 90%; /* Logo będzie większe na telefonach */
+        max-width: 90%;
     }
 }
 
@@ -84,8 +81,8 @@ nav ul li {
 }
 
 nav ul li a {
-    display: block; /* Umożliwia kliknięcie w całym obszarze elementu */
-    padding: 10px 15px; /* Zwiększony obszar klikalny */
+    display: block;
+    padding: 10px 15px;
     color: #ecf0f1;
     text-decoration: none;
     font-size: 16px;
@@ -96,7 +93,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #f39c12;
-    background-color: rgba(255, 255, 255, 0.1); /* Dodanie lekkiego tła przy hoverze */
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 /* Styl dla hamburgera (mobilne) */
@@ -123,7 +120,7 @@ nav ul li a:hover {
 
     nav ul {
         flex-direction: column;
-        background-color: #34495e; /* Tło menu */
+        background-color: #34495e;
         position: absolute;
         top: 60px;
         left: 0;
@@ -156,7 +153,7 @@ main .content-container {
     max-width: 1000px;
     width: 100%;
     padding: 40px;
-    background-color: #34495e; /* Ciemniejszy odcień szarości */
+    background-color: #34495e;
     border-radius: 10px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
@@ -212,13 +209,13 @@ footer {
 
 /* Stylizacja linków w całej stronie */
 a {
-    color: #f39c12; /* Kolor linku */
-    text-decoration: none; /* Usunięcie podkreślenia z linku */
+    color: #f39c12;
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline; /* Podkreślenie linku po najechaniu */
-    color: #e67e22; /* Zmiana koloru linku na ciemniejszy pomarańczowy */
+    text-decoration: underline;
+    color: #e67e22;
 }
 
 footer a {
@@ -287,50 +284,44 @@ button:hover {
 }
 
 table {
-    width: 80%; /* Szerokość tabeli */
-    margin: 50px auto; /* Wypośrodkowanie tabeli na stronie */
-    border-collapse: collapse; /* Zlewanie granic komórek */
-    background-color: #34495e; /* Tło tabeli w ciemnoszarym kolorze */
-    border-radius: 8px; /* Zaokrąglenie rogów tabeli */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Dodanie cienia do tabeli */
+    width: 80%;
+    margin: 50px auto;
+    border-collapse: collapse;
+    background-color: #34495e;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Stylizacja nagłówków tabeli */
 th {
     padding: 15px 20px;
-    background-color: #2c3e50; /* Ciemniejszy szary kolor dla nagłówków */
-    color: #ecf0f1; /* Jasny kolor tekstu */
-    text-align: center; /* Wyśrodkowanie tekstu w nagłówkach */
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    text-align: center;
     font-size: 18px;
     font-weight: bold;
 }
 
-/* Stylizacja komórek tabeli */
 td {
     padding: 15px 20px;
-    text-align: center; /* Wyśrodkowanie tekstu w komórkach */
-    color: #ecf0f1; /* Jasny kolor tekstu */
+    text-align: center;
+    color: #ecf0f1;
     font-size: 16px;
-    border-top: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
-    border-left: 1px solid #7f8c8d; /* Szary kolor dla granic komórek */
+    border-top: 1px solid #7f8c8d;
+    border-left: 1px solid #7f8c8d;
 }
 
-/* Kolorowanie komórek w tabeli */
 tr:nth-child(even) {
-    background-color: #34495e; /* Ciemniejsze tło dla parzystych wierszy */
+    background-color: #34495e;
 }
 
 tr:hover {
-    background-color: #1d2b36; /* Zmiana tła wiersza na pomarańczowe przy najechaniu */
-    cursor: pointer; /* Zmiana kursora na wskaźnik przy najechaniu */
-}
+    background-color: #1d2b36;
+    cursor: pointer;
 
-/* Usunięcie granicy prawej komórki */
 td:last-child, th:last-child {
     border-right: none;
 }
 
-/* Wyrównanie tabeli do środka */
 table {
     margin-left: auto;
     margin-right: auto;
