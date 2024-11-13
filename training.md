@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Trainings"
+---
+
 # Szkolenia z cyberbezpieczeństwa
 
 ## Praktyczne i angażujące szkolenia dla Twojej firmy

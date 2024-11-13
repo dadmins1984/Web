@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Audits"
+---
+
 # Przeglądy i wsparcie IT
 
 ## Kompleksowy przegląd infrastruktury IT i doradztwo

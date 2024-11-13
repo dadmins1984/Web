@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Deployments"
+---
+
 # Integracja systemów IT w Twojej firmie
 
 ## Bezpieczeństwo i kontrola dostępu na wyższym poziomie
