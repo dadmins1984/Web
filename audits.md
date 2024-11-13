@@ -7,16 +7,16 @@ title: "Audits"
 
 ## Dlaczego warto skorzystać z przeglądu IT?
 
-|Regularna analiza infrastruktury pozwala na|
-|-------------------------------------------|
+|Regularna analiza infrastruktury pozwala na:|
+|--------------------------------------------|
 |**Identyfikację słabych punktów** – aby zagrożenia nie miały szans rozwoju.|
 |**Poprawę zabezpieczeń** – wdrożenie praktycznych rozwiązań, które chronią firmę przed cyberatakami.|
 |**Doradztwo i współpracę z zespołem IT** – wsparcie w implementacji najlepszych praktyk i poprawek.|
 
-### Jak to działa?
+## Jak to działa?
 
-|Usługi|
-|------|
+|Usługi:|
+|-------|
 |**Analiza obecnej infrastruktury** – dokładna ocena wszystkich elementów IT w Twojej firmie.|
 |**Raport i rekomendacje** – dostarczam szczegółowy raport zawierający wykryte problemy i konkretne zalecenia.|
 |**Pomoc we wdrożeniu poprawek** – wspieram Twój zespół IT w łataniach luk i wdrażaniu najlepszych praktyk.|
