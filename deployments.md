@@ -1,8 +1,8 @@
-# Integracja systemów zarządzania tożsamością (IAM)
+# Integracja systemów IT w Twojej firmie
 
 ## Bezpieczeństwo i kontrola dostępu na wyższym poziomie
 
-Czy wiesz, czy zwolniony pracownik naprawdę nie ma już dostępu do Twojej firmy? Jeśli masz wątpliwości, warto zastanowić się nad integracją systemów zarządzania tożsamością (IAM). Oferuję kompleksowe usługi integracyjne, które zapewnią pełną kontrolę nad dostępami i bezpieczeństwo Twojej infrastruktury.
+Czy wiesz, czy zwolniony pracownik naprawdę nie ma już dostępu do Twojej firmy? Jeśli masz wątpliwości,<br>warto zastanowić się nad integracją systemów zarządzania tożsamością (IAM). Oferuję kompleksowe usługi integracyjne,<br>które zapewnią pełną kontrolę nad dostępami i bezpieczeństwo Twojej infrastruktury.
 
 ### Co oferuję?
 
