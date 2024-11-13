@@ -3,14 +3,15 @@ layout: default
 title: "Contact"
 ---
 
-# Masz pytania?
 
-Napisz
+# Masz pytania? Jestem tutaj, aby pomóc!
 
-## ASC:
+## Niezależnie od tego, czy masz pytania dotyczące moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej – zapraszam do kontaktu!
 
-- Email: <a onclick="window.location.href = 'mailto:{{ site.contact.email }}';">{{ site.contact.email }} </a>
-- Telefon: <a onclick="window.location.href = 'tel:{{ site.contact.phone }}';">{{ site.contact.phone }} </a>
+### Dane kontaktowe:
+- **Email**: [{{ site.contact.email }}](mailto:{{ site.contact.email }})
+- **Telefon**: [{{ site.contact.phone }}](tel:{{ site.contact.phone }})
 
-<br><br>
-<button onclick="window.location.href = 'mailto:{{ site.contact.email }}';">Skontaktuj się z nami</button>
+<br>
+
+<button style="background-color: #007BFF; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" onclick="window.location.href = 'mailto:{{ site.contact.email }}';">Skontaktuj się z nami</button>
