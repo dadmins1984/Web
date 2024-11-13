@@ -9,10 +9,10 @@ title: "Trainings"
 
 Chcesz, aby Twoi pracownicy byli gotowi na realne zagrożenia? Oferuję szkolenia z cyberbezpieczeństwa,<br>które łączą teorię z praktyką – online oraz na miejscu, z dodatkiem emocji i odrobiny humoru.
 
-### Co oferuję?
-
-- **Szkolenia online** – interaktywne zajęcia - Idealne do nauki w biurze czy w domowych kapciach.
-- **Szkolenia stacjonarne** – pełne doświadczenie z pokazami ataków na żywo, które sprawią, że cyberbezpieczeństwo<br>nabierze nowego znaczenia. Zobacz, jak działają realne zagrożenia i naucz się, jak się przed nimi bronić.<br>
+|Co oferuję?|
+|-----------|
+|**Szkolenia online** – interaktywne zajęcia - Idealne do nauki w biurze czy w domowych kapciach.|
+|**Szkolenia stacjonarne** – pełne doświadczenie z pokazami ataków na żywo, które sprawią, że cyberbezpieczeństwo nabierze nowego znaczenia. Zobacz, jak działają realne zagrożenia i naucz się, jak się przed nimi bronić.|
 
 ### Co wyróżnia moje szkolenia?
 
