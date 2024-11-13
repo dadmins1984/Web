@@ -6,7 +6,7 @@ title: "Contact"
 # Skontaktuj się z ASC
 
 ## Masz pytania? Jestem tutaj, aby pomóc!
-Niezależnie od tego, czy masz pytania dotyczące moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej – zapraszam do kontaktu!
+Niezależnie od tego, czy masz pytania dotyczące moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej<br>zapraszam do kontaktu!
 
 ### Dane kontaktowe:
 - **Email**: [{{ site.contact.email }}](mailto:{{ site.contact.email }})
