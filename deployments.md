@@ -21,7 +21,7 @@ Brak wdrożonego systemu zarządzania tożsamościami? Żaden problem.
 |**Doradztwo i dobór odpowiednich rozwiązań** – pomożemy Ci wybrać platformę, która spełni oczekiwania Twojego zespołu IT, managementu i HR.|
 |**Pełne wdrożenie** – zajmuję się kompleksową instalacją i konfiguracją systemu, aby Twoja firma mogła działać sprawnie i bezpiecznie.|
 
-## Dlaczego warto?
+### Dlaczego warto?
 Bezpieczeństwo zaczyna się od kontroli – wiesz, kto ma dostęp, kiedy i do czego. Dobrze zintegrowany system to:
 - **Spokój i porządek** – pełna kontrola nad użytkownikami i ich dostępem.
 - **Wygoda i efektywność** – łatwiejsza praca dla działu HR i zarządzających.<br><br>
