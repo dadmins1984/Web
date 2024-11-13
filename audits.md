@@ -5,7 +5,8 @@ title: "Audits"
 
 # Przeglądy i wsparcie IT
 
-### Dlaczego warto skorzystać z przeglądu IT?
+## Dlaczego warto skorzystać z przeglądu IT?
+
 |Regularna analiza infrastruktury pozwala na|
 |-------------------------------------------|
 |**Identyfikację słabych punktów** – aby zagrożenia nie miały szans rozwoju.|
