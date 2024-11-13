@@ -13,9 +13,8 @@ title: "zus"
 
 **Nie chcesz, żeby to się stało?** Skontaktuj się z **Another Sec Company (ASC)** i umów szkolenie dla swojej firmy.<br>Pokażemy, jak omijać pułapki cyberprzestępców, a wszystko to w przystępny, żartobliwy sposób – bo bezpieczeństwo nie musi być nudne.
 
----
 
-### Co dalej?
+## Co dalej?
 Chcesz, żeby Twoi pracownicy byli gotowi na takie sztuczki? Zadzwoń lub napisz do nas:
 
 [Skontaktuj się z ASC](mailto:{{ site.contact.email }})
