@@ -20,7 +20,7 @@ Chcesz, aby Twoi pracownicy byli gotowi na realne zagrożenia? Oferuję szkoleni
 |**Przedszkoleniowe ataki phishingowe** – przetestuj gotowość swojego zespołu przed szkoleniem.|
 |**Symulacje z „podrzuconymi” pendrive’ami** – dowiedz się, jak Twoi pracownicy reagują na potencjalne zagrożenia.|
 
-## Dostosowanie do Twoich potrzeb
+### Dostosowanie do Twoich potrzeb
 
 Jeśli w Twojej firmie nie ma wdrożonego systemu szkoleniowego, doradzę, jak to zmienić. Oferuję wsparcie<br>w doborze i wdrożeniu odpowiednich narzędzi, które ułatwią pracę zarówno managementowi, jak i działowi HR.<br>
 
