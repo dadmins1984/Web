@@ -18,8 +18,9 @@ Czy wiesz, czy zwolniony pracownik naprawdę nie ma już dostępu do Twojej firm
 ### Co, jeśli nie masz systemu zarządzaniaużytkownikami?
 
 Brak wdrożonego systemu zarządzania tożsamościami? Żaden problem. 
-|Oferuję:|
-|--------|
+
+|Co oferuję?|
+|-----------|
 |**Doradztwo i dobór odpowiednich rozwiązań** – pomożemy Ci wybrać platformę, która spełni oczekiwania Twojego zespołu IT, managementu i HR.|
 |**Pełne wdrożenie** – zajmuję się kompleksową instalacją i konfiguracją systemu, aby Twoja firma mogła działać sprawnie i bezpiecznie.|
 
