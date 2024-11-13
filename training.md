@@ -19,7 +19,7 @@ title: "Trainings"
 |**Symulacje z „podrzuconymi” pendrive’ami** – dowiedz się, jak Twoi pracownicy reagują na potencjalne zagrożenia.|
 
 |Dostosowanie do Twoich potrzeb|Dlaczego warto?|
-|------------------------------|---------------|
+|:--------------|:---------------|
 |Jeśli w Twojej firmie nie ma wdrożonego systemu szkoleniowego, doradzę, jak to zmienić. Oferuję wsparcie w doborze i wdrożeniu odpowiednich narzędzi, które ułatwią pracę zarówno managementowi, jak i działowi HR.| Cyberbezpieczeństwo to nie tylko zbiór zasad – to misja, którą można realizować z odrobiną luzu. Moje<br>szkolenia są zarówno pouczające, jak i angażujące, bo wiedza lepiej wchodzi do głowy, gdy uczymy się w przystępny sposób.|
 
 
