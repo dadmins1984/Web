@@ -389,3 +389,12 @@ table {
         max-width: 65%;
     }
 }
+
+#qr-code {
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  #qr-code:hover {
+    content: url('https://dadmins1984.github.io/Web/assets/images/q42.png');
+    opacity: 1;
+  }
