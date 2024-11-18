@@ -14,5 +14,5 @@ title: "Contact"
 
 <br><br>
 <div class="logo" style="text-align: center; margin-top: 20px;">
-  <img src="/assets/images/q4.png" alt="QR Code" width="100" height="auto">
+  <img src="https://dadmins1984.github.io/Web/assets/images/q4.png" alt="QR Code" width="100" height="auto">
 </div>
