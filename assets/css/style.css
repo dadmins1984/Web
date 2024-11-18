@@ -374,18 +374,18 @@ table {
 
 @media (min-width: 1025px) {
     .qr-code-container img {
-        max-width: 27%;
+        max-width: 17%;
     }
 }
 
 @media (max-width: 1024px) {
     .qr-code-container img {
-        max-width: 45%;
+        max-width: 15%;
     }
 }
 
 @media (max-width: 480px) {
     .qr-code-container img {
-        max-width: 90%;
+        max-width: 20%;
     }
 }
