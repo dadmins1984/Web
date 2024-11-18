@@ -12,7 +12,6 @@ title: "Contact"
 - **Email**: [{{ site.contact.email }}](mailto:{{ site.contact.email }})
 - **Telefon**: [{{ site.contact.phone }}](tel:{{ site.contact.phone }})
 
-<br><br>
 <div class="qr-code-container">
   <img src="https://dadmins1984.github.io/Web/assets/images/q4.png" alt="QR Code">
-</div>
+</div><br>
