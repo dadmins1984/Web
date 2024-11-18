@@ -364,52 +364,50 @@ table {
     text-align: center;
     margin: 20px 0;
     position: relative;
+    width: 100%;
+    height: auto;
 }
 
 .qr-code-container img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
-    display: block;
-    margin: 0 auto;
-    transition: opacity 0.3s ease-in-out;
-}
-
-.qr-code-container:hover img {
-    opacity: 0;
-}
-
-.qr-code-container:hover::after {
-    content: "";
-    background: url('https://dadmins1984.github.io/Web/assets/images/q42.png') no-repeat center;
-    background-size: contain;
     display: block;
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.qr-code-container .qr-code-default {
+    opacity: 1;
+}
+
+.qr-code-container .qr-code-hover {
+    opacity: 0;
+}
+
+.qr-code-container:hover .qr-code-default {
+    opacity: 0;
+}
+
+.qr-code-container:hover .qr-code-hover {
+    opacity: 1;
 }
 
 @media (min-width: 1025px) {
-    .qr-code-container img,
-    .qr-code-container:hover::after {
-        width: 14%; 
-        height: auto;
+    .qr-code-container img {
+        width: 14%; /* Duże ekrany */
     }
 }
 
 @media (max-width: 1024px) {
-    .qr-code-container img,
-    .qr-code-container:hover::after {
-        width: 20%;
-        height: auto;
+    .qr-code-container img {
+        width: 20%; /* Średnie ekrany */
     }
 }
 
 @media (max-width: 480px) {
-    .qr-code-container img,
-    .qr-code-container:hover::after {
-        width: 65%;
-        height: auto;
+    .qr-code-container img {
+        width: 65%; /* Małe ekrany */
     }
 }
