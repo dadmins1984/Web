@@ -169,7 +169,38 @@ h1 {
 
 p {
     font-size: 18px;
-    color: #bdc3c7;
+    color: #bdc3c7;/* QR Code */
+    .qr-code-container {
+        text-align: center;
+        margin: 20px 0;
+    }
+    
+    .qr-code-container img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+    
+    /* Responsywność dla QR Code */
+    @media (min-width: 1025px) {
+        .qr-code-container img {
+            max-width: 27%;
+        }
+    }
+    
+    @media (max-width: 1024px) {
+        .qr-code-container img {
+            max-width: 45%;
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .qr-code-container img {
+            max-width: 90%;
+        }
+    }
+    
     margin-bottom: 40px;
     line-height: 1.6;
 }
@@ -326,4 +357,35 @@ td:last-child, th:last-child {
 table {
     margin-left: auto;
     margin-right: auto;
+}
+
+/* QR Code */
+.qr-code-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.qr-code-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (min-width: 1025px) {
+    .qr-code-container img {
+        max-width: 27%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .qr-code-container img {
+        max-width: 45%;
+    }
+}
+
+@media (max-width: 480px) {
+    .qr-code-container img {
+        max-width: 90%;
+    }
 }

@@ -13,6 +13,6 @@ title: "Contact"
 - **Telefon**: [{{ site.contact.phone }}](tel:{{ site.contact.phone }})
 
 <br><br>
-<div class="logo" style="text-align: center; margin-top: 20px;">
-  <img src="https://dadmins1984.github.io/Web/assets/images/q4.png" alt="QR Code" width="100" height="auto">
+<div class="qr-code-container">
+  <img src="https://dadmins1984.github.io/Web/assets/images/q4.png" alt="QR Code">
 </div>
