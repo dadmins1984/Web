@@ -363,6 +363,7 @@ table {
 .qr-code-container {
     text-align: center;
     margin: 20px 0;
+    position: relative;
 }
 
 .qr-code-container img {
@@ -370,6 +371,23 @@ table {
     height: auto;
     display: block;
     margin: 0 auto;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.qr-code-container:hover img {
+    opacity: 0;
+}
+
+.qr-code-container:hover::after {
+    content: "";
+    display: block;
+    width: 100%;
+    padding-top: 100%;
+    background: url('https://dadmins1984.github.io/Web/assets/images/q42.png') no-repeat center;
+    background-size: contain;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 @media (min-width: 1025px) {
@@ -389,12 +407,3 @@ table {
         max-width: 65%;
     }
 }
-
-#qr-code {
-    transition: opacity 0.3s ease-in-out;
-  }
-  
-  #qr-code:hover {
-    content: url('https://dadmins1984.github.io/Web/assets/images/q42.png');
-    opacity: 1;
-  }
