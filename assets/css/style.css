@@ -380,30 +380,34 @@ table {
 
 .qr-code-container:hover::after {
     content: "";
-    display: block;
-    width: 100%;
-    padding-top: 100%;
     background: url('https://dadmins1984.github.io/Web/assets/images/q42.png') no-repeat center;
     background-size: contain;
+    display: block;
     position: absolute;
     top: 0;
     left: 0;
 }
 
 @media (min-width: 1025px) {
-    .qr-code-container img {
-        max-width: 14%;
+    .qr-code-container img,
+    .qr-code-container:hover::after {
+        width: 14%;
+        height: auto;
     }
 }
 
 @media (max-width: 1024px) {
-    .qr-code-container img {
-        max-width: 20%;
+    .qr-code-container img,
+    .qr-code-container:hover::after {
+        width: 20%;
+        height: auto;
     }
 }
 
 @media (max-width: 480px) {
-    .qr-code-container img {
-        max-width: 65%;
+    .qr-code-container img,
+    .qr-code-container:hover::after {
+        width: 65%;
+        height: auto;
     }
 }
