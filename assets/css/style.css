@@ -366,6 +366,9 @@ table {
     position: relative;
     width: 100%;
     height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .qr-code-container img {
@@ -396,18 +399,18 @@ table {
 
 @media (min-width: 1025px) {
     .qr-code-container img {
-        width: 14%; /* Duże ekrany */
+        width: 14%;
     }
 }
 
 @media (max-width: 1024px) {
     .qr-code-container img {
-        width: 20%; /* Średnie ekrany */
+        width: 20%; 
     }
 }
 
 @media (max-width: 480px) {
     .qr-code-container img {
-        width: 65%; /* Małe ekrany */
+        width: 65%;
     }
 }
