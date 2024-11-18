@@ -3,7 +3,7 @@ layout: default
 title: "Contact"
 ---
 
-# Skontaktuj się z nami.
+# Skontaktuj się z Another Sec Company.
 
 ## Masz pytania? Jestem tutaj, aby pomóc!
 <br>Niezależnie od tego, czy dotyczą moich usług, potrzebujesz porady czy po prostu chcesz dowiedzieć się więcej<br>zapraszam do kontaktu!
