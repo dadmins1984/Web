@@ -11,3 +11,8 @@ title: "Contact"
 ### Dane kontaktowe:
 - **Email**: [{{ site.contact.email }}](mailto:{{ site.contact.email }})
 - **Telefon**: [{{ site.contact.phone }}](tel:{{ site.contact.phone }})
+
+<br><br>
+<div class="logo" style="text-align: center; margin-top: 20px;">
+  <img src="/assets/images/q4.png" alt="QR Code" width="100" height="auto">
+</div>
