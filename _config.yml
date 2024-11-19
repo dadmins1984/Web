@@ -1,5 +1,5 @@
 title: ASC
-description: "Firma specjalizująca się w usługach cyberbezpieczeństwa. Oferujemy audyty, szkolenia, oraz wdrożenia rozwiązań ochrony danych."
+description: "Firma specjalizująca się w usługach cyberbezpieczeństwa. Oferujemy przeglądy, szkolenia, oraz wdrożenia rozwiązań ochrony danych."
 url: "https://asc.szmist.pl"
 baseurl: ""
 lang: pl
@@ -9,7 +9,7 @@ markdown: kramdown
 theme: jekyll-theme-slate
 
 social_links:
-  linkedin: "https://linkedin.com/company/twoja_firma"
+  linkedin: "www.linkedin.com/in/łukasz-szmist-46b5b8119"
 
 plugins:
   - jekyll-feed
