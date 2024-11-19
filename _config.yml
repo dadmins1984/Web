@@ -1,7 +1,7 @@
 title: ASC
 description: "Firma specjalizująca się w usługach cyberbezpieczeństwa. Oferujemy audyty, szkolenia, oraz wdrożenia rozwiązań ochrony danych."
 url: "https://asc.szmist.pl"
-baseurl: "/Web"
+baseurl: ""
 lang: pl
 timezone: "Europe/Warsaw"
 
@@ -15,15 +15,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-favicon: https://dadmins1984.github.io/Web/assets/images/favicon.ico
-logo: https://dadmins1984.github.io/Web/assets/images/logo.png
-logo_min: https://dadmins1984.github.io/Web/assets/images/logo_min.png
-logo_jekyll: https://dadmins1984.github.io/Web/assets/images/jekyll.svg
-logo_github: https://dadmins1984.github.io/Web/assets/images/github.png
+favicon: https://asc.szmist.pl/assets/images/favicon.ico
+logo: https://asc.szmist.pl/assets/images/logo.png
+logo_min: https://asc.szmist.pl/assets/images/logo_min.png
+logo_jekyll: https://asc.szmist.pl/assets/images/jekyll.svg
+logo_github: https://asc.szmist.pl/assets/images/github.png
 
 contact:
-  email: kontakt@twojadomena.com
-  phone: "+48 123 456 789"
+  email: lukasz@szmist.pl
+  phone: "+48 530 226 572"
+
+css: https://asc.szmist.pl/assets/assets/css/style.css
 
 exclude:
   - Gemfile
