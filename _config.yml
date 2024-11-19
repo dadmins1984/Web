@@ -9,7 +9,7 @@ markdown: kramdown
 theme: jekyll-theme-slate
 
 social_links:
-  linkedin: "linkedin.com/in/łukasz-szmist-46b5b8119"
+  linkedin: "https://linkedin.com/in/łukasz-szmist-46b5b8119"
 
 plugins:
   - jekyll-feed
