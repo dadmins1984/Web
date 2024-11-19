@@ -25,7 +25,7 @@ contact:
   email: lukasz@szmist.pl
   phone: "+48 530 226 572"
 
-css: https://asc.szmist.pl/assets/assets/css/style.css
+css: https://asc.szmist.pl/assets/css/style.css
 
 exclude:
   - Gemfile
