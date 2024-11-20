@@ -13,5 +13,5 @@ title: "Contact"
 - **Telefon**: [{{ site.contact.phone }}](tel:{{ site.contact.phone }})
 
 <div class="qr-code-container">
-  <img src="https://dadmins1984.github.io/Web/assets/images/q4.png" alt="QR Code">
+  <img src="{{ site.qr }}" alt="QR Code">
 </div>

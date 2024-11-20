@@ -20,6 +20,7 @@ logo: https://asc.szmist.pl/assets/images/logo.png
 logo_min: https://asc.szmist.pl/assets/images/logo_min.png
 logo_jekyll: https://asc.szmist.pl/assets/images/jekyll.svg
 logo_github: https://asc.szmist.pl/assets/images/github.png
+qr: https://asc.szmist.pl/assets/images/q4.png
 
 contact:
   email: lukasz@szmist.pl
