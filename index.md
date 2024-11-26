@@ -18,28 +18,16 @@ title: "Main."
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">
-          <a href="https://dadmins1984.github.io/Web/training" class="service-link">
-            <div>Szkolenia cybersecurity</div>
-            <div>Szkolenia online i stacjonarne z pokazami ataków i symulacjami phishingowymi.</div>
-          </a>
-        </td>
+        <td><a href="https://dadmins1984.github.io/Web/training">Szkolenia cybersecurity</a></td>
+        <td><a onclick="window.location.href = 'https://dadmins1984.github.io/Web/training';">Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji.</a></td>
       </tr>
       <tr>
-        <td colspan="2">
-          <a href="https://dadmins1984.github.io/Web/audits" class="service-link">
-            <div>Przeglądy Infrastrukury</div>
-            <div>Analiza infrastruktury, doradztwo oraz naprawa krytycznych podatności.</div>
-          </a>
-        </td>
+        <td><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastrukury</a></td>
+        <td><a onclick="window.location.href = 'https://dadmins1984.github.io/Web/audits';">Dokładna analiza infrastruktury, doradztwo, pomoc w łataniu problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.</a></td>
       </tr>
       <tr>
-        <td colspan="2">
-          <a href="https://dadmins1984.github.io/Web/deployments" class="service-link">
-            <div>Integracja systemów</div>
-            <div>Integracja systemów oraz wdrażanie rozwiązań chmurowych i customowych dla IT oraz HR.</div>
-          </a>
-        </td>
+        <td><a href="https://dadmins1984.github.io/Web/deployments">Integracja systemów</a></td>
+        <td><a onclick="window.location.href = 'https://dadmins1984.github.io/Web/deployments';">Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamościami, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.</a></td>
       </tr>
     </tbody>
   </table>
