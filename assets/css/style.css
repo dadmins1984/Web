@@ -390,51 +390,10 @@ table {
     }
 }
 
-/* Tabela */
-.uslugi-tabela table {
-    width: 80%; /* Ustaw szerokość na 80% */
-    margin-left: auto;
-    margin-right: auto;
-    border-collapse: collapse; /* Zapewnia, że granice między komórkami są połączone */
+.uslugi-tabelka {
+    border-collapse: collapse;
 }
 
-/* Nagłówki */
-.uslugi-tabela th {
-    padding: 15px 20px;
-    background-color: #2c3e50;
-    color: #ecf0f1;
-    font-size: 18px;
-    font-weight: bold;
-}
-
-/* Wyśrodkowanie nagłówka w całej tabeli */
-.uslugi-tabela th[colspan="2"] {
-    text-align: center; /* Wyśrodkuj tekst w nagłówku */
-    background-color: #34495e; /* Zmiana koloru tła, aby pasował do reszty tabeli */
-    padding: 15px 0; /* Wyrównaj do środka */
-}
-
-/* Stylowanie komórek */
-.uslugi-tabela td {
-    padding: 15px 20px;
-    text-align: left;
-    color: #ecf0f1;
-    font-size: 16px;
-    border-top: 1px solid #7f8c8d;
-    border-left: 1px solid #7f8c8d;
-}
-
-/* Alternatywne tło dla parzystych wierszy */
-.uslugi-tabela tr:nth-child(even) {
-    background-color: #34495e;
-}
-
-/* Efekt po najechaniu na wiersz */
-.uslugi-tabela tr:hover {
-    background-color: #1d2b36;
-    cursor: pointer;
-}
-
-.uslugi-tabela td:last-child, .uslugi-tabela th:last-child {
-    border-right: none;
+.uslugi-tabelka th {
+    text-align: center;
 }
