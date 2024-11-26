@@ -19,17 +19,16 @@ title: "Main."
     <tbody>
       <tr>
         <td><a href="https://dadmins1984.github.io/Web/training">Szkolenia cybersecurity</a></td>
-        <td><a onclick="window.location.href = 'https://dadmins1984.github.io/Web/training';">Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji.</a></td>
+        <td>Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji.</td>
       </tr>
       <tr>
         <td><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastrukury</a></td>
-        <td><a onclick="window.location.href = 'https://dadmins1984.github.io/Web/audits';">Dokładna analiza infrastruktury, doradztwo, pomoc w łataniu problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.</a></td>
+        <td>Dokładna analiza infrastruktury, doradztwo, pomoc w łataniu problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.</td>
       </tr>
       <tr>
         <td><a href="https://dadmins1984.github.io/Web/deployments">Integracja systemów</a></td>
-        <td><a onclick="window.location.href = 'https://dadmins1984.github.io/Web/deployments';">Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamościami, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.</a></td>
+        <td>Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamością, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.</td>
       </tr>
     </tbody>
   </table>
 </div>
-
