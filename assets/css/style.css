@@ -402,3 +402,7 @@ table {
 .service-table th {
     text-align: center;
 }
+
+.service-table td {
+    text-align: left;
+}
