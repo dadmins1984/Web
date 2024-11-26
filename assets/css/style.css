@@ -403,6 +403,8 @@ table {
     text-align: center;
 }
 
-.service-table td {
-    text-align: left;
+@media (max-width: 768px) {
+    .service-table td {
+        text-align: left;
+    }
 }
