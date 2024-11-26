@@ -390,10 +390,10 @@ table {
     }
 }
 
-.uslugi-tabelka {
+.service-table {
     border-collapse: collapse;
 }
 
-.uslugi-tabelka th {
+.service-table th {
     text-align: center;
 }
