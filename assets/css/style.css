@@ -415,3 +415,18 @@ table {
         word-wrap: break-word;
     }
 }
+
+.service-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .service-link div {
+    color: inherit;
+  }
+  
+  .service-link div:first-child {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
