@@ -389,3 +389,18 @@ table {
         max-width: 65%;
     }
 }
+
+/* tabelka */
+.uslugi-tabela table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .uslugi-tabela th {
+    text-align: center;
+  }
+
+  .uslugi-tabela th[colspan="2"] {
+    text-align: center;
+  }
