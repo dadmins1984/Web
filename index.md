@@ -19,15 +19,15 @@ title: "Main."
     <tbody>
       <tr>
         <td><a href="https://dadmins1984.github.io/Web/training">Szkolenia cybersecurity</a></td>
-        <td>Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji.</td>
+        <td>Szkolenia online i stacjonarne z pokazami ataków i symulacjami phishingowymi.</td>
       </tr>
       <tr>
         <td><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastrukury</a></td>
-        <td>Dokładna analiza infrastruktury, doradztwo, pomoc w łataniu problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.</td>
+        <td>Analiza infrastruktury, doradztwo oraz naprawa krytycznych podatności.</td>
       </tr>
       <tr>
         <td><a href="https://dadmins1984.github.io/Web/deployments">Integracja systemów</a></td>
-        <td>Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamością, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.</td>
+        <td>Integracja systemów oraz wdrażanie rozwiązań chmurowych i customowych dla IT oraz HR.</td>
       </tr>
     </tbody>
   </table>
