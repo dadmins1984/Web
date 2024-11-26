@@ -18,17 +18,30 @@ title: "Main."
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://dadmins1984.github.io/Web/training">Szkolenia cybersecurity</a></td>
-        <td>Szkolenia online i stacjonarne z pokazami ataków i symulacjami phishingowymi.</td>
+        <td colspan="2">
+          <a href="https://dadmins1984.github.io/Web/training" class="service-link">
+            <div>Szkolenia cybersecurity</div>
+            <div>Szkolenia online i stacjonarne z pokazami ataków i symulacjami phishingowymi.</div>
+          </a>
+        </td>
       </tr>
       <tr>
-        <td><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastrukury</a></td>
-        <td>Analiza infrastruktury, doradztwo oraz naprawa krytycznych podatności.</td>
+        <td colspan="2">
+          <a href="https://dadmins1984.github.io/Web/audits" class="service-link">
+            <div>Przeglądy Infrastrukury</div>
+            <div>Analiza infrastruktury, doradztwo oraz naprawa krytycznych podatności.</div>
+          </a>
+        </td>
       </tr>
       <tr>
-        <td><a href="https://dadmins1984.github.io/Web/deployments">Integracja systemów</a></td>
-        <td>Integracja systemów oraz wdrażanie rozwiązań chmurowych i customowych dla IT oraz HR.</td>
+        <td colspan="2">
+          <a href="https://dadmins1984.github.io/Web/deployments" class="service-link">
+            <div>Integracja systemów</div>
+            <div>Integracja systemów oraz wdrażanie rozwiązań chmurowych i customowych dla IT oraz HR.</div>
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
 </div>
+
