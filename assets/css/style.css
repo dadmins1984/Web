@@ -392,15 +392,40 @@ table {
 
 /* tabelka */
 .uslugi-tabela table {
-    width: 100%;
+    width: 80%; /* Szerokość tabeli jest ustawiona na 80% */
     margin-left: auto;
     margin-right: auto;
-  }
+}
 
-  .uslugi-tabela th {
+.uslugi-tabela th {
     text-align: center;
-  }
+    padding: 15px 20px;
+}
 
-  .uslugi-tabela th[colspan="2"] {
+.uslugi-tabela th[colspan="2"] {
     text-align: center;
-  }
+    padding: 15px 20px;
+}
+
+/* Stylizacja komórek tabeli */
+.uslugi-tabela td {
+    padding: 15px 20px;
+    text-align: center;
+    color: #ecf0f1;
+    font-size: 16px;
+    border-top: 1px solid #7f8c8d;
+    border-left: 1px solid #7f8c8d;
+}
+
+.uslugi-tabela tr:nth-child(even) {
+    background-color: #34495e;
+}
+
+.uslugi-tabela tr:hover {
+    background-color: #1d2b36;
+    cursor: pointer;
+}
+
+.uslugi-tabela td:last-child, .uslugi-tabela th:last-child {
+    border-right: none;
+}
