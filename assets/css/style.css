@@ -406,8 +406,8 @@ table {
 @media (max-width: 480px) {
     .service-table td {
         text-align: left;
-        padding-left: 2px;
-        padding-right: 2px;
+        padding-left: 8px;
+        padding-right: 8px;
     }
 
 }
