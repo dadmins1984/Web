@@ -18,16 +18,16 @@ title: "Main."
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://dadmins1984.github.io/Web/training">Szkolenia cybersecurity</a></td>
-        <td>Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji.</td>
+        <td><span style="color: #f39c12;"><a href="https://dadmins1984.github.io/Web/training">Szkolenia cybersecurity</a></span></td>
+        <td><a href="https://dadmins1984.github.io/Web/training">Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji.</a></td>
       </tr>
       <tr>
-        <td><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastruktury</a></td>
-        <td>Dokładna analiza infrastruktury, doradztwo, pomoc w łataniu problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.</td>
+        <td><span style="color: #f39c12;"><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastruktury</a></span></td>
+        <td><a href="https://dadmins1984.github.io/Web/audits">Dokładna analiza infrastruktury, doradztwo, pomoc w łataniu problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.</a></td>
       </tr>
       <tr>
-        <td><a href="https://dadmins1984.github.io/Web/deployments">Integracja systemów</a></td>
-        <td>Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamością, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.</td>
+        <td><span style="color: #f39c12;"><a href="https://dadmins1984.github.io/Web/deployments">Integracja systemów</a></span></td>
+        <td><a href="https://dadmins1984.github.io/Web/deployments">Jaką masz pewność, że zwolniony pracownik nie ma już dostępu do firmy? Integruję systemy zarządzania tożsamością, oferując gotowe, customowe i chmurowe rozwiązania. Doradzam i wdrażam systemy, które usprawnią pracę zespołom IT, managementowi i HR.</a></td>
       </tr>
     </tbody>
   </table>
