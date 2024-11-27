@@ -22,7 +22,7 @@ title: "Main."
         <td>Online i na miejscu z pokazami ataków na żywo. Opcjonalnie: symulacje phishingowe i „podrzucone” pendrive’y z bezpiecznym malware. Nauka z dreszczykiem emocji.</td>
       </tr>
       <tr>
-        <td><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastrukury</a></td>
+        <td><a href="https://dadmins1984.github.io/Web/audits">Przeglądy Infrastruktury</a></td>
         <td>Dokładna analiza infrastruktury, doradztwo, pomoc w łataniu problemów. Brak zespołu IT? Mogę naprawić krytyczne podatności – warunki do uzgodnienia.</td>
       </tr>
       <tr>

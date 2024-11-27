@@ -409,5 +409,10 @@ table {
         padding-left: 8px;
         padding-right: 8px;
     }
+}
 
+
+.service-table a {
+    text-decoration: none;
+    color: inherit;
 }
