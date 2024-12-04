@@ -379,7 +379,7 @@ table {
 
 @media (min-width: 1025px) {
     .qr-code-container img {
-        max-width: 14%;
+        max-width: 20%;
     }
 }
 
