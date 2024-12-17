@@ -23,8 +23,8 @@ title: "Audits"
 ### Kompleksowy przegląd infrastruktury IT i doradztwo
 Chcesz mieć pewność, że Twoja firma jest dobrze zabezpieczona? Oferuję profesjonalne usługi przeglądów infrastruktury IT,<br>które nie tylko wykrywają problemy, ale też pokazują, jak je skutecznie naprawić.
 
-### Brak zespołu IT? Nie ma problemu!
-Jeśli Twoja firma nie posiada własnego działu IT, proponuję usługę naprawy najistotniejszych podatności. Ustalmy indywidualne<br>warunki wynagrodzenia i zajmę się tym, abyś mógł spać spokojnie, wiedząc, że Twoja infrastruktura jest chroniona.
+### Brak zespołu IT? Nie ma problemu.
+Jeśli Twoja firma nie posiada własnego działu IT, proponuję usługę naprawy najistotniejszych podatności. Ustalimy indywidualne<br>warunki współpracy a następnie zajmę się naprawami, abyś mógł spać spokojnie, wiedząc że Twoja infrastruktura jest chroniona.
 
 ## Skontaktuj się, aby dowiedzieć się więcej o szkoleniach:
 

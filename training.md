@@ -14,13 +14,13 @@ title: "Trainings"
 
 |Co wyróżnia moje szkolenia?|
 |---------------------------|
-|**Pokazy ataków na żywo** – nic tak nie uczy, jak zobaczenie na własne oczy, jak hakerzy mogą przejąć system.|
+|**Pokazy ataków na żywo** – nic tak nie uczy, jak zobaczenie na własne oczy w jaki sposób hakerzy mogą przejąć system.|
 |**Przedszkoleniowe ataki phishingowe** – przetestuj gotowość swojego zespołu przed szkoleniem.|
 |**Symulacje z „podrzuconymi” pendrive’ami** – dowiedz się, jak Twoi pracownicy reagują na potencjalne zagrożenia.|
 
 ### Dlaczego warto?
 
-Cyberbezpieczeństwo to nie tylko zbiór zasad to misja którą można realizować z w luźny i przyjemny sposób. <br> Moje szkolenia są zarówno pouczające, jak i angażujące, bo wiedza lepiej wchodzi do głowy, gdy uczymy się w przystępny sposób.
+Cyberbezpieczeństwo to nie tylko zbiór zasad to misja którą można realizować najlepiej w przyjemny sposób jeszcze przed pierwszym incydentem bezpieczeństwa. Moje szkolenia są zarówno pouczające, jak i angażujące, bo wiedza najlepiej przyswajana wtedy kiedy naukę łączy się z praktyką.
 
 
 ## Skontaktuj się, aby dowiedzieć się więcej o szkoleniach:
