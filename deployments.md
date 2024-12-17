@@ -21,7 +21,10 @@ title: "Deployments"
 |**Pełne wdrożenie** – zajmuję się kompleksową instalacją i konfiguracją systemu, aby Twoja firma mogła działać sprawnie i bezpiecznie.|
 
 ### Dlaczego warto?
-Bezpieczeństwo zaczyna się od dobrze przemyślanego systemu – wiesz, kto ma dostęp, kiedy i do czego. Zintegrowany system to:
+Bezpieczeństwo zaczyna się od dobrze przemyślanego systemu – wiesz, kto ma dostęp, kiedy i do czego. 
+
+### Zintegrowany system to:
+
 - **Spokój i porządek** – pełna kontrola nad użytkownikami i ich dostępem.
 - **Wygoda i efektywność** – łatwiejsza praca dla działu HR i właścicieli.<br><br>
 
