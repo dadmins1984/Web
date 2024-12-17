@@ -20,7 +20,7 @@ title: "Trainings"
 
 ### Dlaczego warto?
 
-<br>Cyberbezpieczeństwo to nie tylko zbiór zasad to misja którą można realizować w przyjemny sposób jeszcze przed pierwszym incydentem bezpieczeństwa.<br>Moje szkolenia są zarówno pouczające, jak i angażujące, bo wiedza najlepiej przyswajana wtedy kiedy naukę łączy się z praktyką.
+Cyberbezpieczeństwo to nie tylko zbiór zasad to misja którą można realizować w przyjemny sposób jeszcze przed pierwszym incydentem bezpieczeństwa.<br>Moje szkolenia są zarówno pouczające, jak i angażujące, bo wiedza najlepiej przyswajana wtedy kiedy naukę łączy się z praktyką.
 
 
 ## Skontaktuj się, aby dowiedzieć się więcej o szkoleniach:
