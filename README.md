@@ -8,7 +8,7 @@ All content on this website, including text, images, and design, is protected by
 ## 📞 Contact Us  
 If you encounter any issues, notice incorrect information, or have questions about our website, please feel free to reach out to us:  
 
-- **Email**: lukasz@smzist.pl  
+- **Email**: lukasz@szmist.pl  
 - **Phone**: +48 530 226 572  
 
 Your feedback is valuable to us, and we strive to address any concerns promptly.  
