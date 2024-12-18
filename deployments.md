@@ -29,6 +29,6 @@ Bezpieczeństwo zaczyna się od dobrze przemyślanego systemu – wiesz, kto ma 
 - **Wygoda i efektywność** – łatwiejsza praca dla działu HR i właścicieli.<br><br>
 
 
-## Skontaktuj się, aby dowiedzieć się więcej o szkoleniach:
+## Skontaktuj się, aby dowiedzieć się więcej o integracji systemów:
 
 [Zgłoś się po szczegóły](mailto:{{ site.contact.email }})

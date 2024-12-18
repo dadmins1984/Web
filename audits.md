@@ -26,6 +26,6 @@ Chcesz mieć pewność, że Twoja firma jest dobrze zabezpieczona? Oferuję prof
 ### Brak zespołu IT? Nie ma problemu.
 Jeśli Twoja firma nie posiada własnego działu IT, proponuję usługę naprawy najistotniejszych podatności. Ustalimy indywidualne<br>warunki współpracy a następnie zajmę się naprawami, abyś mógł spać spokojnie, wiedząc że Twoja infrastruktura jest chroniona.
 
-## Skontaktuj się, aby dowiedzieć się więcej o szkoleniach:
+## Skontaktuj się, aby dowiedzieć się więcej o przeglądach IT:
 
 [Zgłoś się po szczegóły](mailto:{{ site.contact.email }})

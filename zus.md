@@ -17,6 +17,4 @@ title: "zus"
 ## Co dalej?
 Chcesz, żeby Twoi pracownicy byli gotowi na takie sztuczki? Zadzwoń lub napisz do nas:
 
-## Skontaktuj się, aby dowiedzieć się więcej o szkoleniach:
-
-[Zgłoś się po szczegóły](mailto:{{ site.contact.email }})
+<a href="/contact" target="_blank">Zgłoś się po szczegóły</a>
