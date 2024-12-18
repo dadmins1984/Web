@@ -15,6 +15,6 @@ title: "zus"
 
 
 ## Co dalej?
-Chcesz, żeby Twoi pracownicy byli gotowi na takie sztuczki? Zadzwoń lub napisz do nas:
+Chcesz, żeby Twoi pracownicy widziedzieli jak się obronić? Zadzwoń lub napisz do nas:
 
 <a href="/contact" target="_blank">Zgłoś się po szczegóły</a>
