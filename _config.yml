@@ -1,0 +1,35 @@
+title: ASC
+description: "Firma specjalizująca się w usługach cyberbezpieczeństwa. Oferujemy przeglądy, szkolenia, oraz wdrożenia rozwiązań ochrony danych."
+url: "https://asc.szmist.pl"
+baseurl: ""
+lang: pl
+timezone: "Europe/Warsaw"
+
+markdown: kramdown
+theme: jekyll-theme-slate
+
+social_links:
+  linkedin: "https://linkedin.com/in/łukasz-szmist-46b5b8119"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+favicon: https://asc.szmist.pl/assets/images/favicon.ico
+logo: https://asc.szmist.pl/assets/images/logo.png
+logo_min: https://asc.szmist.pl/assets/images/logo_min.png
+logo_jekyll: https://asc.szmist.pl/assets/images/jekyll.svg
+logo_github: https://asc.szmist.pl/assets/images/github.png
+qr: https://asc.szmist.pl/assets/images/q4.png
+
+contact:
+  email: lukasz@szmist.pl
+  phone: "+48 530 226 572"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+  

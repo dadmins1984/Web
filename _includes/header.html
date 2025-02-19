@@ -1,0 +1,18 @@
+<header>
+    <div class="logo">
+        <a onclick="window.location.href ='/';">
+            <img src="{{ site.logo_min }}" alt="Logo" width="100" height="auto">
+        </a>
+      </div>
+    <nav>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="training">Szkolenia</a></li>
+        <li><a href="audits">Przeglądy</a></li>
+        <li><a href="deployments">Integracje</a></li>
+        <li><a href="contact">Kontakt</a></li>
+        <li><a href="projects">Blog</a></li>
+      </ul>
+    </nav>
+    <div class="hamburger" onclick="toggleMenu()">☰</div>
+  </header>
