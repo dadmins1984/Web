@@ -15,14 +15,14 @@ title: "Projects"
 ## Informacje ze świata cybersecurity
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
-|:---------:|:------------------|:-------------------|
-| 30/01/2025 | Baza danych chińskiego LLM DeepSeek wystawiona do sieci, a w niej historia chatów | [Link do strony](https://sekurak.pl/baza-danych-chinskiego-llm-deepseek-wystawiona-do-sieci-a-w-niej-historia-chatow/) |
-| 29/01/2025 | Serwis PayPal zmienił politykę prywatności i domyślnie będzie udostępniał dane o preferencjach zakupowych | [Link do strony](https://sekurak.pl/serwis-paypal-zmienil-polityke-prywatnosci-i-domyslnie-bedzie-udostepnial-dane-o-preferencjach-zakupowych/) |
-| 28/01/2025 | clone2leak, czyli jak drobne szczegóły powodują wyciekanie poświadczeń | [Link do strony](https://sekurak.pl/clone2leak-czyli-jak-drobne-szczegoly-powoduja-wyciekanie-poswiadczen/) |
-| 27/01/2025 | Kod QR który prezentuje dwie różne wartości – okazuje się, że to możliwe | [Link do strony](https://sekurak.pl/kod-qr-ktory-prezentuje-dwie-rozne-wartosci-okazuje-sie-ze-to-mozliwe/) |
-| 24/01/2025 | MasterCard poprawił literówkę w konfiguracji DNS po prawie pięciu latach | [Link do strony](https://sekurak.pl/mastercard-poprawil-literowke-w-konfiguracji-dns-po-prawie-pieciu-latach/) |
-| 24/01/2025 | Mogli otwierać i śledzić auta Subaru w Japonii, Kanadzie i USA – wystarczyły numery tablic rejestracyjnych | [Link do strony](https://sekurak.pl/mogli-otwierac-i-sledzic-auta-subaru-w-japonii-kanadzie-i-usa-wystarczyly-numery-tablic-rejestracyjnych/) |
-| 20/01/2025 | Atak na łańcuch dostaw – na celowniku pakiet Pythona i serwery Discord | [Link do strony](https://sekurak.pl/atak-na-lancuch-dostaw-na-celowniku-pakiet-pythona-i-serwery-discord/) |
-| 20/01/2025 | Startuje Sekurak.Academy 2025! Zobacz agendę oraz zmiany, które wdrożyliśmy od bieżącego semestru | [Link do strony](https://sekurak.pl/startuje-sekurak-academy-2025-zobacz-agende-oraz-zmiany-ktore-wdrozylismy-od-biezacego-semestru/) |
-| 20/01/2025 | Wyciekły dane klientów sieci hoteli: Marriott, Hilton, Hyatt, … Winny zewnętrzny dostawca. | [Link do strony](https://sekurak.pl/wyciekly-dane-klientow-sieci-hoteli-marriott-hilton-hyatt-winny-zewnetrzny-dostawca/) |
-| 20/01/2025 | Historia o tym jak badacze bezpieczeństwa mogli przejąć infrastrukturę rządową i nie tylko – cudzymi rękami | [Link do strony](https://sekurak.pl/historia-o-tym-jak-badacze-bezpieczenstwa-mogli-przejac-infrastrukture-rzadowa-i-nie-tylko-cudzymi-rekami/) |
+|:---------:|:------------------|-------------------:|
+| 20/02/2025 | Jak literówka w pakiecie Go przetrwała trzy lata… w tle atak na łańcuch dostaw | [Link do strony](https://sekurak.pl/jak-literowka-w-pakiecie-go-przetrwala-trzy-lata-w-tle-atak-na-lancuch-dostaw/) |
+| 20/02/2025 | Poznaj AI z sekurakiem. Zapraszamy na darmowe, praktyczne szkolenie jeszcze w lutym! | [Link do strony](https://sekurak.pl/poznaj-ai-z-sekurakiem-zapraszamy-na-darmowe-praktyczne-szkolenie-jeszcze-w-lutym/) |
+| 19/02/2025 | Nowa wersja przeglądarki Google Chrome łata dwa poważne błędy | [Link do strony](https://sekurak.pl/nowa-wersja-przegladarki-google-chrome-lata-dwa-powazne-bledy/) |
+| 18/02/2025 | Uwaga na zdalne wykonanie kodu w pakiecie WinZip – pora na aktualizację | [Link do strony](https://sekurak.pl/uwaga-na-zdalne-wykonanie-kodu-w-pakiecie-winzip-pora-na-aktualizacje/) |
+| 17/02/2025 | Nieoczywista podatność w interface administracyjnym urządzeń Palo Alto. Możliwość ominięcia uwierzytelnienia. CVE-2025-0108 | [Link do strony](https://sekurak.pl/nieoczywista-podatnosc-w-interface-administracyjnym-urzadzen-palo-alto-mozliwosc-ominiecia-uwierzytelnienia-cve-2025-0108/) |
+| 17/02/2025 | Grasz w gry ze Steama? Uważaj na złośliwe oprogramowanie | [Link do strony](https://sekurak.pl/grasz-w-gry-ze-steama-uwazaj-na-zlosliwe-oprogramowanie/) |
+| 17/02/2025 | Pokazał jak shakować zabawkę dla dzieci… bo producent zbankrutował | [Link do strony](https://sekurak.pl/pokazal-jak-shakowac-zabawke-dla-dzieci-bo-producent-zbankrutowal/) |
+| 14/02/2025 | Śledztwo CBZC w sprawie kampanii phishingowych zakończone sukcesem | [Link do strony](https://sekurak.pl/sledztwo-cbzc-w-sprawie-kampanii-phishingowych-zakonczone-sukcesem/) |
+| 13/02/2025 | Prostym mykiem można było poznać e-maila dowolnego użytkownika YouTube. | [Link do strony](https://sekurak.pl/prostym-mykiem-mozna-bylo-poznac-e-maila-dowolnego-uzytkownika-youtube/) |
+| 13/02/2025 | Grupa klientów PGE Obrót otrzymała nie swoje faktury – mamy stanowisko Spółki | [Link do strony](https://sekurak.pl/grupa-klientow-pge-obrot-otrzymala-nie-swoje-faktury-mamy-stanowisko-spolki/) |
