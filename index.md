@@ -8,7 +8,7 @@ title: "Main."
 
 | **O mnie** |
 |:----------:|
-|Na co dzień zajmuję się zarządzaniem dostępami w zespole Directory Services gdzie przekonałem się, że bezpieczeństwo IT to coś znacznie więcej niż tylko hasła i firewalle – to złożony ekosystem, który wymaga stałej uwagi, by działał perfekcyjnie. Wśród <a href="https://chmura.szmist.pl/s/5Q3EQDTEgmZpcRr" style="color: #f39c12;">certyfikatów</a> które posiadam, znajdują się m.in. CompTIA Security+ oraz MS AZ-104, potwierdzające moje kompetencje. Jeśli masz dość schematycznych prezentacji o bezpieczeństwie lub dopiero zaczynasz myśleć o ochronie swojej firmy, trafiłeś idealnie. Bezpieczeństwo to nie tylko praca – to misja, którą warto wykonać.|
+|Na co dzień zajmuję się zarządzaniem dostępami w zespole Directory Services gdzie przekonałem się, że bezpieczeństwo IT to coś znacznie więcej niż tylko hasła i firewalle – to złożony ekosystem, który wymaga stałej uwagi, aby działał perfekcyjnie. Wśród <a href="https://chmura.szmist.pl/s/5Q3EQDTEgmZpcRr" style="color: #f39c12;">certyfikatów</a> które posiadam, znajdują się m.in. CompTIA Security+ oraz MS AZ-104, potwierdzające moje kompetencje. Jeśli masz dość schematycznych prezentacji o bezpieczeństwie lub dopiero zaczynasz myśleć o ochronie swojej firmy, trafiłeś idealnie. Bezpieczeństwo to nie tylko praca – to misja, którą warto wykonać.|
 
 <div class="service-table">
   <table>
