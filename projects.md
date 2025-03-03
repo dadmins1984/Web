@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 03/03/2025 | Największy włam w historii giełd kryptowalut – z portfela ByBit zniknęła równowartość prawie 1,5 miliarda dolarów – co wiemy do tej pory | [Link do strony](https://sekurak.pl/najwiekszy-wlam-w-historii-gield-kryptowalut-z-portfela-bybit-zniknela-rownowartosc-prawie-15-miliarda-dolarow-co-wiemy-do-tej-pory/) |
+| 03/03/2025 | Polska Agencja Kosmiczna zhackowana. Systemy odcięte od Internetu. | [Link do strony](https://sekurak.pl/polska-agencja-kosmiczna-zhackowana-systemy-odciete-od-internetu/) |
+| 03/03/2025 | CITI bank przez pomyłkę przelał klientowi 81 bilionów USD ($81 000 000 000 000). USA. | [Link do strony](https://sekurak.pl/citi-bank-przez-pomylke-przelal-klientowi-81-bilionow-usd-81-000-000-000-000-usa/) |
+| 03/03/2025 | Orange potwierdza wyciek w jednym ze swoich oddziałów w Rumunii | [Link do strony](https://sekurak.pl/orange-potwierdza-wyciek-w-jednym-ze-swoich-oddzialow-w-rumunii/) |
+| 28/02/2025 | A czy Ty wpiąłeś już swoje łóżko w oddzielnego VLANa? | [Link do strony](https://sekurak.pl/a-czy-ty-wpiales-juz-swoje-lozko-w-oddzielnego-vlana/) |
+| 28/02/2025 | Otwieramy drzwi do świata cyberbezpieczeństwa – dołącz BEZPŁATNIE do Dni Otwartych Sekurak.Academy! | [Link do strony](https://sekurak.pl/otwieramy-drzwi-do-swiata-cyberbezpieczenstwa-dolacz-bezplatnie-do-dni-otwartych-sekurak-academy/) |
+| 26/02/2025 | Można było w GitLabie zmienić hasło dowolnemu użytkownikowi, znając tylko jego e-maila. Za zgłoszenie podatności wypłacono $35000 | [Link do strony](https://sekurak.pl/mozna-bylo-w-gitlabie-zmienic-haslo-dowolnemu-uzytkownikowi-znajac-tylko-jego-e-maila-za-zgloszenie-podatnosci-wyplacono-35000/) |
+| 26/02/2025 | Aplikacja mobilna z malware pobrana ponad 100 000 razy z Google Play | [Link do strony](https://sekurak.pl/aplikacja-mobilna-z-malware-pobrana-ponad-100-000-razy-z-google-play/) |
+| 24/02/2025 | Oszustwa związane z e-sportem, przestępcy celują w widzów oglądających transmisje | [Link do strony](https://sekurak.pl/oszustwa-zwiazane-z-e-sportem-przestepcy-celuja-w-widzow-ogladajacych-transmisje/) |
 | 23/02/2025 | Czy możliwy jest atak SQL Injection w 2025 roku? Tak, poprzez parsowanie znaków w psql | [Link do strony](https://sekurak.pl/czy-mozliwy-jest-atak-sql-injection-w-2025-roku-tak-poprzez-parsowanie-znakow-w-psql/) |
-| 21/02/2025 | Citrix wypuszcza łatki na eskalację uprawnień w Citrix NetScaler Console | [Link do strony](https://sekurak.pl/citrix-wypuszcza-latki-na-eskalacje-uprawnien-w-citrix-netscaler-console/) |
-| 21/02/2025 | Chińczycy atakują urządzenia sieciowe Cisco | [Link do strony](https://sekurak.pl/chinczycy-atakuja-urzadzenia-sieciowe-cisco/) |
-| 20/02/2025 | Wykorzystują „złośliwe” kody QR i przejmują dostęp do komunikacji w komunikatorze Signal. | [Link do strony](https://sekurak.pl/wykorzystuja-zlosliwe-kody-qr-i-przejmuja-dostep-do-komunikacji-signal-ofiar/) |
-| 20/02/2025 | Podatności MITM i DoS w kliencie OpenSSH | [Link do strony](https://sekurak.pl/podatnosci-mitm-i-dos-w-kliencie-openssh/) |
-| 20/02/2025 | Jak literówka w pakiecie Go przetrwała trzy lata… w tle atak na łańcuch dostaw | [Link do strony](https://sekurak.pl/jak-literowka-w-pakiecie-go-przetrwala-trzy-lata-w-tle-atak-na-lancuch-dostaw/) |
-| 20/02/2025 | Poznaj AI z sekurakiem. Zapraszamy na darmowe, praktyczne szkolenie jeszcze w lutym! | [Link do strony](https://sekurak.pl/poznaj-ai-z-sekurakiem-zapraszamy-na-darmowe-praktyczne-szkolenie-jeszcze-w-lutym/) |
-| 19/02/2025 | Nowa wersja przeglądarki Google Chrome łata dwa poważne błędy | [Link do strony](https://sekurak.pl/nowa-wersja-przegladarki-google-chrome-lata-dwa-powazne-bledy/) |
-| 18/02/2025 | Uwaga na zdalne wykonanie kodu w pakiecie WinZip – pora na aktualizację | [Link do strony](https://sekurak.pl/uwaga-na-zdalne-wykonanie-kodu-w-pakiecie-winzip-pora-na-aktualizacje/) |
-| 17/02/2025 | Nieoczywista podatność w interface administracyjnym urządzeń Palo Alto. Możliwość ominięcia uwierzytelnienia. CVE-2025-0108 | [Link do strony](https://sekurak.pl/nieoczywista-podatnosc-w-interface-administracyjnym-urzadzen-palo-alto-mozliwosc-ominiecia-uwierzytelnienia-cve-2025-0108/) |
