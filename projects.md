@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
-| 03/03/2025 | Największy włam w historii giełd kryptowalut – z portfela ByBit zniknęła równowartość prawie 1,5 miliarda dolarów – co wiemy do tej pory | [Link do strony](https://sekurak.pl/najwiekszy-wlam-w-historii-gield-kryptowalut-z-portfela-bybit-zniknela-rownowartosc-prawie-15-miliarda-dolarow-co-wiemy-do-tej-pory/) |
-| 03/03/2025 | Polska Agencja Kosmiczna zhackowana. Systemy odcięte od Internetu. | [Link do strony](https://sekurak.pl/polska-agencja-kosmiczna-zhackowana-systemy-odciete-od-internetu/) |
-| 03/03/2025 | CITI bank przez pomyłkę przelał klientowi 81 bilionów USD ($81 000 000 000 000). USA. | [Link do strony](https://sekurak.pl/citi-bank-przez-pomylke-przelal-klientowi-81-bilionow-usd-81-000-000-000-000-usa/) |
-| 03/03/2025 | Orange potwierdza wyciek w jednym ze swoich oddziałów w Rumunii | [Link do strony](https://sekurak.pl/orange-potwierdza-wyciek-w-jednym-ze-swoich-oddzialow-w-rumunii/) |
-| 28/02/2025 | A czy Ty wpiąłeś już swoje łóżko w oddzielnego VLANa? | [Link do strony](https://sekurak.pl/a-czy-ty-wpiales-juz-swoje-lozko-w-oddzielnego-vlana/) |
-| 28/02/2025 | Otwieramy drzwi do świata cyberbezpieczeństwa – dołącz BEZPŁATNIE do Dni Otwartych Sekurak.Academy! | [Link do strony](https://sekurak.pl/otwieramy-drzwi-do-swiata-cyberbezpieczenstwa-dolacz-bezplatnie-do-dni-otwartych-sekurak-academy/) |
-| 26/02/2025 | Można było w GitLabie zmienić hasło dowolnemu użytkownikowi, znając tylko jego e-maila. Za zgłoszenie podatności wypłacono $35000 | [Link do strony](https://sekurak.pl/mozna-bylo-w-gitlabie-zmienic-haslo-dowolnemu-uzytkownikowi-znajac-tylko-jego-e-maila-za-zgloszenie-podatnosci-wyplacono-35000/) |
-| 26/02/2025 | Aplikacja mobilna z malware pobrana ponad 100 000 razy z Google Play | [Link do strony](https://sekurak.pl/aplikacja-mobilna-z-malware-pobrana-ponad-100-000-razy-z-google-play/) |
-| 24/02/2025 | Oszustwa związane z e-sportem, przestępcy celują w widzów oglądających transmisje | [Link do strony](https://sekurak.pl/oszustwa-zwiazane-z-e-sportem-przestepcy-celuja-w-widzow-ogladajacych-transmisje/) |
-| 23/02/2025 | Czy możliwy jest atak SQL Injection w 2025 roku? Tak, poprzez parsowanie znaków w psql | [Link do strony](https://sekurak.pl/czy-mozliwy-jest-atak-sql-injection-w-2025-roku-tak-poprzez-parsowanie-znakow-w-psql/) |
+| 10/03/2025 | Zapraszamy pracowników instytucji publicznych na darmowe szkolenie Nie daj się Cyberzbójom 6.0 | [Link do strony](https://sekurak.pl/zapraszamy-pracownikow-instytucji-publicznych-na-darmowe-szkolenie-nie-daj-sie-cyberzbojom-6-0/) |
+| 10/03/2025 | Zapraszamy na szkolenie WebSecurity Master | [Link do strony](https://sekurak.pl/zapraszamy-na-szkolenie-websecurity-master/) |
+| 10/03/2025 | Prawdopodobnie DeepSeek zna Wasze sekrety oraz klucze API ;) | [Link do strony](https://sekurak.pl/prawdopodobnie-deepseek-zna-wasze-sekrety-oraz-klucze-api/) |
+| 10/03/2025 | Cyberatak na szpital MSWiA w Krakowie. Szpital działa w ograniczonym zakresie. Ransomware. | [Link do strony](https://sekurak.pl/cyberatak-na-szpital-mswia-w-krakowie-szpital-dziala-w-ograniczonym-zakresie-ransomware/) |
+| 07/03/2025 | Zhackowali kamerę żeby wykraść dane z firmy. | [Link do strony](https://sekurak.pl/zhackowali-kamere-zeby-wykrasc-dane-z-firmy/) |
+| 07/03/2025 | Zachwyt nad LLMami, a zderzenie z górą lodową – czyli o powielaniu błędnych praktyk | [Link do strony](https://sekurak.pl/zachwyt-nad-llmami-a-zderzenie-z-gora-lodowa-czyli-o-powielaniu-blednych-praktyk/) |
+| 07/03/2025 | ZOO też może być ofiarą ataku | [Link do strony](https://sekurak.pl/zoo-tez-moze-byc-ofiara-ataku/) |
+| 06/03/2025 | Atak na sektor lotniczy w Zjednoczonych Emiratach Arabskich | [Link do strony](https://sekurak.pl/atak-na-sektor-lotniczy-w-zjednoczonych-emiratach-arabskich/) |
+| 04/03/2025 | Chmura Apple, atak chińskiego APT na amerykańskie telekomy i prywatność danych w Europie. Polityczna walka o kryptografię. | [Link do strony](https://sekurak.pl/chmura-apple-atak-chinskiego-apt-na-amerykanskie-telekomy-i-prywatnosc-danych-w-europie-polityczna-walka-o-kryptografie/) |
+| 03/03/2025 | Rośnie liczba ataków na przemysłowe systemy sterowania (ICS/OT) – komunikat Ministra Cyfryzacji | [Link do strony](https://sekurak.pl/rosnie-liczba-atakow-na-przemyslowe-systemy-sterowania-ics-ot-komunikat-ministra-cyfryzacji/) |
