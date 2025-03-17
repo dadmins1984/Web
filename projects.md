@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
-| 10/03/2025 | Zapraszamy pracowników instytucji publicznych na darmowe szkolenie Nie daj się Cyberzbójom 6.0 | [Link do strony](https://sekurak.pl/zapraszamy-pracownikow-instytucji-publicznych-na-darmowe-szkolenie-nie-daj-sie-cyberzbojom-6-0/) |
-| 10/03/2025 | Zapraszamy na szkolenie WebSecurity Master | [Link do strony](https://sekurak.pl/zapraszamy-na-szkolenie-websecurity-master/) |
+| 14/03/2025 | GitLab naprawia podatności związane z biblioteką ruby-saml | [Link do strony](https://sekurak.pl/gitlab-naprawia-podatnosci-zwiazane-z-biblioteka-ruby-saml/) |
+| 12/03/2025 | Dlaczego hackowanie aplikacji webowych jest proste? Bezpłatne szkolenie od sekuraka | [Link do strony](https://sekurak.pl/dlaczego-hackowanie-aplikacji-webowych-jest-proste-bezplatne-szkolenie-od-sekuraka/) |
+| 12/03/2025 | Szpital MSWiA informuje o wycieku danych. Dokumentacja medyczna, dane osobowe, dane finansowe, … | [Link do strony](https://sekurak.pl/szpital-mswia-informuje-o-wycieku-danych-dokumentacja-medyczna-dane-osobowe-dane-finansowe/) |
+| 12/03/2025 | Zostań prelegentem lub opowiedz o ITsec w Twojej firmie podczas konferencji Sekurak Cyberstarter! [Call For Papers] | [Link do strony](https://sekurak.pl/zostan-prelegentem-lub-opowiedz-o-itsec-w-twojej-firmie-podczas-konferencji-sekurak-cyberstarter-call-for-papers/) |
+| 12/03/2025 | Cellebrite używa AI do podsumowywania zebranych danych | [Link do strony](https://sekurak.pl/cellebrite-uzywa-ai-do-podsumowywania-zebranych-danych/) |
+| 11/03/2025 | Websecurity Master od sekuraka – rusza druga edycja topowego szkolenia z bezpieczeństwa aplikacji webowych. Sprawdź nas i zapisz się na bezpłatną sesję szkolenia! | [Link do strony](https://sekurak.pl/websecurity-master-od-sekuraka-rusza-druga-edycja-topowego-szkolenia-z-bezpieczenstwa-aplikacji-webowych-sprawdz-nas-i-zapisz-sie-na-bezplatna-sesje-szkolenia/) |
 | 10/03/2025 | Prawdopodobnie DeepSeek zna Wasze sekrety oraz klucze API ;) | [Link do strony](https://sekurak.pl/prawdopodobnie-deepseek-zna-wasze-sekrety-oraz-klucze-api/) |
 | 10/03/2025 | Cyberatak na szpital MSWiA w Krakowie. Szpital działa w ograniczonym zakresie. Ransomware. | [Link do strony](https://sekurak.pl/cyberatak-na-szpital-mswia-w-krakowie-szpital-dziala-w-ograniczonym-zakresie-ransomware/) |
 | 07/03/2025 | Zhackowali kamerę żeby wykraść dane z firmy. | [Link do strony](https://sekurak.pl/zhackowali-kamere-zeby-wykrasc-dane-z-firmy/) |
 | 07/03/2025 | Zachwyt nad LLMami, a zderzenie z górą lodową – czyli o powielaniu błędnych praktyk | [Link do strony](https://sekurak.pl/zachwyt-nad-llmami-a-zderzenie-z-gora-lodowa-czyli-o-powielaniu-blednych-praktyk/) |
-| 07/03/2025 | ZOO też może być ofiarą ataku | [Link do strony](https://sekurak.pl/zoo-tez-moze-byc-ofiara-ataku/) |
-| 06/03/2025 | Atak na sektor lotniczy w Zjednoczonych Emiratach Arabskich | [Link do strony](https://sekurak.pl/atak-na-sektor-lotniczy-w-zjednoczonych-emiratach-arabskich/) |
-| 04/03/2025 | Chmura Apple, atak chińskiego APT na amerykańskie telekomy i prywatność danych w Europie. Polityczna walka o kryptografię. | [Link do strony](https://sekurak.pl/chmura-apple-atak-chinskiego-apt-na-amerykanskie-telekomy-i-prywatnosc-danych-w-europie-polityczna-walka-o-kryptografie/) |
-| 03/03/2025 | Rośnie liczba ataków na przemysłowe systemy sterowania (ICS/OT) – komunikat Ministra Cyfryzacji | [Link do strony](https://sekurak.pl/rosnie-liczba-atakow-na-przemyslowe-systemy-sterowania-ics-ot-komunikat-ministra-cyfryzacji/) |
