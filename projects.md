@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 04/04/2025 | #IngressNightmare – czyli jak przejąć klaster Kubernetes | [Link do strony](https://sekurak.pl/ingressnightmare-czyli-jak-przejac-klaster-kubernetes/) |
+| 03/04/2025 | 11 stopni wtajemniczenia – jak zostać Netsecurity Masterem z sekurakiem? | [Link do strony](https://sekurak.pl/11-stopni-wtajemniczenia-jak-zostac-netsecurity-masterem-z-sekurakiem/) |
+| 03/04/2025 | Młodzi 4IT – edukacja o cyberzagrożeniach pod naszym patronatem 😎 | [Link do strony](https://sekurak.pl/mlodzi-4it-edukacja-o-cyberzagrozeniach-pod-naszym-patronatem/) |
+| 02/04/2025 | Uwaga iPhone-owcy. Nowy iOS 18.4 łata przeszło 60 podatności (!) | [Link do strony](https://sekurak.pl/uwaga-iphone-owcy-nowy-ios-18-4-lata-przeszlo-60-podatnosci/) |
+| 01/04/2025 | Cyberprzestępcy kradną konta Steam graczy CS2 za pomocą techniki Browser-in-the-Browser (BitB) | [Link do strony](https://sekurak.pl/cyberprzestepcy-kradna-konta-steam-graczy-cs2-za-pomoca-techniki-browser-in-the-browser-bitb/) |
+| 01/04/2025 | Co można kupić od chińskiej firmy zajmującej się cyberbezpieczeństwem? Analiza wycieku danych i-Soon. Część I | [Link do strony](https://sekurak.pl/co-mozna-kupic-od-chinskiej-firmy-zajmujacej-sie-cyberbezpieczenstwem-analiza-wycieku-danych-i-soon-czesc-i/) |
 | 31/03/2025 | Dołącz do teamu sekurak jako szkoleniowiec! Praca dorywcza lub na stałe. | [Link do strony](https://sekurak.pl/dolacz-do-teamu-sekurak-jako-szkoleniowiec-praca-dorywcza-lub-na-stale/) |
 | 31/03/2025 | Historia o tym jak twórca HaveIBeenPwned trafił do własnej bazy weryfikacji wycieków ;-) | [Link do strony](https://sekurak.pl/historia-o-tym-jak-tworca-haveibeenpwned-trafil-do-wlasnej-bazy-weryfikacji-wyciekow/) |
 | 31/03/2025 | Seria 10 szkoleń Pythona z Gynvaelem – praktycznie i bez owijania w bawełnę! | [Link do strony](https://sekurak.pl/seria-10-szkolen-pythona-z-gynvaelem-praktycznie-i-bez-owijania-w-bawelne/) |
 | 29/03/2025 | Dbaj o cyberbezpieczeństwo! Światowy Dzień Backupu z Helionem | [Link do strony](https://sekurak.pl/dbaj-o-cyberbezpieczenstwo-swiatowy-dzien-backupu-z-helionem/) |
-| 28/03/2025 | Firefox także łata błąd związany z ucieczką z sandbox pod Windows | [Link do strony](https://sekurak.pl/firefox-takze-lata-blad-zwiazany-z-ucieczka-z-sandbox-pod-windows/) |
-| 26/03/2025 | Google łata błąd w Chrome dla Windows wykorzystywany w kampanii ForumTroll | [Link do strony](https://sekurak.pl/google-lata-blad-w-chrome-dla-windows-wykorzystywany-w-kampanii-forumtroll/) |
-| 25/03/2025 | Cyberodporność z DORA – hackerska lekcja dla firm na żywo! | [Link do strony](https://sekurak.pl/cyberodpornosc-z-dora-hackerska-lekcja-dla-firm-na-zywo/) |
-| 25/03/2025 | Kiedy podatność przypomina backdoora – Next.js CVE-2025-29927 i obejście logiki middleware | [Link do strony](https://sekurak.pl/kiedy-podatnosc-przypomina-backdoora-next-js-cve-2025-29927-i-obejscie-logiki-middleware/) |
-| 22/03/2025 | Wyciek danych klientów Empik? Nie ma się czego obawiać. Mamy oficjalne stanowisko firmy. | [Link do strony](https://sekurak.pl/wyciek-danych-klientow-empik-nie-ma-sie-czego-obawiac-mamy-oficjalne-stanowisko-firmy/) |
-| 21/03/2025 | mySCADA myPRO Manager – trywialne podatności w oprogramowaniu nadzorującym automatykę przemysłową | [Link do strony](https://sekurak.pl/myscada-mypro-manager-trywialne-podatnosci-w-oprogramowaniu-nadzorujacym-automatyke-przemyslowa/) |
