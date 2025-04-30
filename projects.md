@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 24/04/2025 | Krytyczna luka w implementacji SSH Erlanga – CVSS 10.0 – nieuwierzytelnione wykonanie kodu oraz AI, które pisze PoC-a | [Link do strony](https://sekurak.pl/krytyczna-luka-w-implementacji-ssh-erlanga-cvss-10-0-nieuwierzytelnione-wykonanie-kodu-oraz-ai-ktore-pisze-poc-a/) |
+| 21/04/2025 | Jak kradnie infostealer? Analiza budowy i działania Strela Stealera | [Link do strony](https://sekurak.pl/jak-kradnie-infostealer-analiza-budowy-i-dzialania-strela-stealera/) |
+| 18/04/2025 | Sekurak Hacking Party wraca do polskich miast! | [Link do strony](https://sekurak.pl/sekurak-hacking-party-wraca-do-polskich-miast/) |
+| 16/04/2025 | 4chan z problemami czyli o ataku na popularny imageboard | [Link do strony](https://sekurak.pl/4chan-z-problemami-czyli-o-ataku-na-popularny-imageboard/) |
+| 16/04/2025 | Więcej pokazów hackingu na żywo od sekuraka! 23 kwietnia robimy kolejny włam… tym razem do sieci :-) | [Link do strony](https://sekurak.pl/wiecej-pokazow-hackingu-na-zywo-od-sekuraka-23-kwietnia-robimy-kolejny-wlam-tym-razem-do-sieci/) |
+| 15/04/2025 | Wielkanocny Kiermasz Książkowy wydawnictwa Helion – cyberbezpieczeństwo w centrum uwagi | [Link do strony](https://sekurak.pl/wielkanocny-kiermasz-ksiazkowy-wydawnictwa-helion-cyberbezpieczenstwo-w-centrum-uwagi/) |
+| 15/04/2025 | Ponad 100 000 osób poznało z nami AI! Zobacz, co osiągnęliśmy i … zapisz się na NOWE, darmowe szkolenie! | [Link do strony](https://sekurak.pl/ponad-100-000-osob-poznalo-z-nami-ai-zobacz-co-osiagnelismy-i-zapisz-sie-na-nowe-darmowe-szkolenie/) |
+| 15/04/2025 | Precision-Validated Phishing. Opisano nowy rodzaj techniki zagrożeń związanej z formularzem logowania | [Link do strony](https://sekurak.pl/precision-validated-phishing-opisano-nowy-rodzaj-techniki-zagrozen-zwiazanej-z-formularzem-logowania/) |
 | 13/04/2025 | Szwajcaria wprowadza nowe prawo dotyczące zgłaszania cyberataków | [Link do strony](https://sekurak.pl/szwajcaria-wprowadza-nowe-prawo-dotyczace-zglaszania-cyberatakow/) |
 | 11/04/2025 | Dzwoni do Ciebie numer zza granicy? ,,Dodaj mnie na WhatsApp’’ – nowa kampania phishingowa | [Link do strony](https://sekurak.pl/dzwoni-do-ciebie-numer-zza-granicy-dodaj-mnie-na-whatsapp-nowa-kampania-phishingowa/) |
-| 11/04/2025 | Jak można było czytać listę połączeń klientów sieci Verizon | [Link do strony](https://sekurak.pl/jak-mozna-bylo-czytac-liste-polaczen-klientow-sieci-verizon/) |
-| 10/04/2025 | Fortinet zaleca aktualizację oprogramowania FortiSwitch – możliwa jest nieautoryzowana zmiana hasła | [Link do strony](https://sekurak.pl/fortinet-zaleca-aktualizacje-oprogramowania-fortiswitch-mozliwa-jest-nieautoryzowana-zmiana-hasla/) |
-| 08/04/2025 | Co można kupić od chińskiej firmy zajmującej się cyberbezpieczeństwem? Analiza wycieku danych i-Soon. Część II | [Link do strony](https://sekurak.pl/co-mozna-kupic-od-chinskiej-firmy-zajmujacej-sie-cyberbezpieczenstwem-analiza-wycieku-danych-i-soon-czesc-ii/) |
-| 04/04/2025 | #IngressNightmare – czyli jak przejąć klaster Kubernetes | [Link do strony](https://sekurak.pl/ingressnightmare-czyli-jak-przejac-klaster-kubernetes/) |
-| 03/04/2025 | 11 stopni wtajemniczenia – jak zostać Netsecurity Masterem z sekurakiem? | [Link do strony](https://sekurak.pl/11-stopni-wtajemniczenia-jak-zostac-netsecurity-masterem-z-sekurakiem/) |
-| 03/04/2025 | Młodzi 4IT – edukacja o cyberzagrożeniach pod naszym patronatem 😎 | [Link do strony](https://sekurak.pl/mlodzi-4it-edukacja-o-cyberzagrozeniach-pod-naszym-patronatem/) |
-| 02/04/2025 | Uwaga iPhone-owcy. Nowy iOS 18.4 łata przeszło 60 podatności (!) | [Link do strony](https://sekurak.pl/uwaga-iphone-owcy-nowy-ios-18-4-lata-przeszlo-60-podatnosci/) |
-| 01/04/2025 | Cyberprzestępcy kradną konta Steam graczy CS2 za pomocą techniki Browser-in-the-Browser (BitB) | [Link do strony](https://sekurak.pl/cyberprzestepcy-kradna-konta-steam-graczy-cs2-za-pomoca-techniki-browser-in-the-browser-bitb/) |
