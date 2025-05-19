@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 19/05/2025 | Chiński producent drukarek UV udostępniał malware wraz ze sterownikami | [Link do strony](https://sekurak.pl/chinski-producent-drukarek-uv-udostepnial-malware-wraz-ze-sterownikami/) |
+| 16/05/2025 | Nowe luki w procesorach Intel: powrót do problemów Spectre i Meltdown w nowej odsłonie | [Link do strony](https://sekurak.pl/nowe-luki-w-procesorach-intel-powrot-do-problemow-spectre-i-meltdown-w-nowej-odslonie/) |
+| 14/05/2025 | Nieznane moduły sieciowe znalezione w chińskich inwerterach fotowoltaicznych | [Link do strony](https://sekurak.pl/nieznane-modemy-znalezione-w-chinskich-inwerterach-fotowoltaicznych/) |
+| 14/05/2025 | Ujawniono pięć aktywnie wykorzystywanych luk zero-day w systemie Windows | [Link do strony](https://sekurak.pl/ujawniono-piec-aktywnie-wykorzystywanych-luk-zero-day-w-systemie-windows/) |
+| 14/05/2025 | Baza EUVD – nowy rozdział w zarządzaniu cyberzagrożeniami? | [Link do strony](https://sekurak.pl/baza-euvd-nowy-rozdzial-w-zarzadzaniu-cyberzagrozeniami/) |
+| 13/05/2025 | Szkolenie Poznaj AI powraca! Dołącz do ponad 120 000 osób, które złapały z nami bakcyla AI. | [Link do strony](https://sekurak.pl/szkolenie-poznaj-ai-powraca-dolacz-do-ponad-100-000-osob-ktore-zlapaly-z-nami-bakcyla-ai/) |
 | 12/05/2025 | Jak skutecznie i lokalnie zaszyfrować cały dysk – studium przypadku ransomware MAKOP | [Link do strony](https://sekurak.pl/jak-skutecznie-i-lokalnie-zaszyfrowac-caly-dysk-studium-przypadku-ransomware-makop/) |
 | 09/05/2025 | Banalna podatność, która mogła być wykorzystania w Internetowym Koncie Pacjenta (IKP). Można było pozyskiwać dane innych osób (również o zdrowiu). | [Link do strony](https://sekurak.pl/banalna-podatnosc-ktora-mogla-byc-wykorzystania-w-internetowym-koncie-pacjenta-ikp-mozna-bylo-pozyskiwac-dane-innych-osob-rowniez-o-zdrowiu/) |
 | 08/05/2025 | Sekurak Cyberstarter 2025 – Pełna agenda, 6 ścieżek, 40+ prelekcji i inne atrakcje! Zobacz co przygotowaliśmy! | [Link do strony](https://sekurak.pl/sekurak-cyberstarter-2025-pelna-agenda-6-sciezek-40-prelekcji-i-inne-atrakcje-zobacz-co-przygotowalismy/) |
 | 05/05/2025 | Prompt Puppetry – technika, która łamie zabezpieczenia większości LLMów | [Link do strony](https://sekurak.pl/prompt-puppetry-technika-ktora-lamie-zabezpieczenia-wiekszosci-llmow/) |
-| 01/05/2025 | “AirBorne” czyli Zero-Click RCE w applowej usłudze AirPlay | [Link do strony](https://sekurak.pl/airborne-czyli-zero-click-rce-w-applowej-usludze-airplay/) |
-| 01/05/2025 | Relacja z Sekurak Hacking Party w Gliwicach (26.04.2025) | [Link do strony](https://sekurak.pl/relacja-z-sekurak-hacking-party-w-gliwicach-26-04-2025/) |
-| 24/04/2025 | Krytyczna luka w implementacji SSH Erlanga – CVSS 10.0 – nieuwierzytelnione wykonanie kodu oraz AI, które pisze PoC-a | [Link do strony](https://sekurak.pl/krytyczna-luka-w-implementacji-ssh-erlanga-cvss-10-0-nieuwierzytelnione-wykonanie-kodu-oraz-ai-ktore-pisze-poc-a/) |
-| 21/04/2025 | Jak kradnie infostealer? Analiza budowy i działania Strela Stealera | [Link do strony](https://sekurak.pl/jak-kradnie-infostealer-analiza-budowy-i-dzialania-strela-stealera/) |
-| 18/04/2025 | Sekurak Hacking Party wraca do polskich miast! | [Link do strony](https://sekurak.pl/sekurak-hacking-party-wraca-do-polskich-miast/) |
-| 16/04/2025 | 4chan z problemami czyli o ataku na popularny imageboard | [Link do strony](https://sekurak.pl/4chan-z-problemami-czyli-o-ataku-na-popularny-imageboard/) |
