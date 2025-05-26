@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 26/05/2025 | Zdalne wykonanie kodu bez uwierzytelnienia – Ivanti Endpoint Manager Mobile | [Link do strony](https://sekurak.pl/zdalne-wykonanie-kodu-bez-uwierzytelnienia-ivanti-endpoint-manager-mobile/) |
+| 26/05/2025 | Hackowanie, AI i praca w ITsec. Zobacz relację z Sekurak Cyberstarter 2025! | [Link do strony](https://sekurak.pl/hackowanie-ai-i-praca-w-itsec-zobacz-relacje-z-sekurak-cyberstarter-2025/) |
+| 25/05/2025 | Infostealery rozprzestrzeniają się przez TikTok i technikę ClickFix – szczegóły techniczne kampanii | [Link do strony](https://sekurak.pl/infostealery-rozprzestrzeniaja-sie-przez-tiktok-i-technike-clickfix-szczegoly-techniczne-kampanii/) |
+| 23/05/2025 | O2 UK łata podatność pozwalającą na geolokalizację użytkowników smartfonów z technologią VoLTE | [Link do strony](https://sekurak.pl/o2-uk-lata-podatnosc-pozwalajaca-na-geolokalizacje-uzytkownikow-smartfonow-z-technologia-volte/) |
+| 22/05/2025 | Ruszyła rekrutacja do Cyber Women Leaders – zapraszamy do bezpłatnego, turbo-praktycznego programu rozwnięcia kompetencji cybersecurity | [Link do strony](https://sekurak.pl/ruszyla-rekrutacja-do-cyber-women-leaders-zapraszamy-do-bezplatnego-turbo-praktycznego-programu-rozwniecia-kompetencji-cybersecurity/) |
+| 21/05/2025 | Wyciek tytułów szkiców i prywatnych wpisów w silniku WordPress | [Link do strony](https://sekurak.pl/wyciek-tytulow-szkicow-i-prywatnych-wpisow-w-silniku-wordpress/) |
+| 19/05/2025 | Aktualizujcie przeglądarki Firefox i Chrome | [Link do strony](https://sekurak.pl/aktualizujcie-przegladarki-firefox-i-chrome/) |
 | 19/05/2025 | Chiński producent drukarek UV udostępniał malware wraz ze sterownikami | [Link do strony](https://sekurak.pl/chinski-producent-drukarek-uv-udostepnial-malware-wraz-ze-sterownikami/) |
 | 16/05/2025 | Nowe luki w procesorach Intel: powrót do problemów Spectre i Meltdown w nowej odsłonie | [Link do strony](https://sekurak.pl/nowe-luki-w-procesorach-intel-powrot-do-problemow-spectre-i-meltdown-w-nowej-odslonie/) |
 | 14/05/2025 | Nieznane moduły sieciowe znalezione w chińskich inwerterach fotowoltaicznych | [Link do strony](https://sekurak.pl/nieznane-modemy-znalezione-w-chinskich-inwerterach-fotowoltaicznych/) |
-| 14/05/2025 | Ujawniono pięć aktywnie wykorzystywanych luk zero-day w systemie Windows | [Link do strony](https://sekurak.pl/ujawniono-piec-aktywnie-wykorzystywanych-luk-zero-day-w-systemie-windows/) |
-| 14/05/2025 | Baza EUVD – nowy rozdział w zarządzaniu cyberzagrożeniami? | [Link do strony](https://sekurak.pl/baza-euvd-nowy-rozdzial-w-zarzadzaniu-cyberzagrozeniami/) |
-| 13/05/2025 | Szkolenie Poznaj AI powraca! Dołącz do ponad 120 000 osób, które złapały z nami bakcyla AI. | [Link do strony](https://sekurak.pl/szkolenie-poznaj-ai-powraca-dolacz-do-ponad-100-000-osob-ktore-zlapaly-z-nami-bakcyla-ai/) |
-| 12/05/2025 | Jak skutecznie i lokalnie zaszyfrować cały dysk – studium przypadku ransomware MAKOP | [Link do strony](https://sekurak.pl/jak-skutecznie-i-lokalnie-zaszyfrowac-caly-dysk-studium-przypadku-ransomware-makop/) |
-| 09/05/2025 | Banalna podatność, która mogła być wykorzystania w Internetowym Koncie Pacjenta (IKP). Można było pozyskiwać dane innych osób (również o zdrowiu). | [Link do strony](https://sekurak.pl/banalna-podatnosc-ktora-mogla-byc-wykorzystania-w-internetowym-koncie-pacjenta-ikp-mozna-bylo-pozyskiwac-dane-innych-osob-rowniez-o-zdrowiu/) |
-| 08/05/2025 | Sekurak Cyberstarter 2025 – Pełna agenda, 6 ścieżek, 40+ prelekcji i inne atrakcje! Zobacz co przygotowaliśmy! | [Link do strony](https://sekurak.pl/sekurak-cyberstarter-2025-pelna-agenda-6-sciezek-40-prelekcji-i-inne-atrakcje-zobacz-co-przygotowalismy/) |
-| 05/05/2025 | Prompt Puppetry – technika, która łamie zabezpieczenia większości LLMów | [Link do strony](https://sekurak.pl/prompt-puppetry-technika-ktora-lamie-zabezpieczenia-wiekszosci-llmow/) |
