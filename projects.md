@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 23/06/2025 | 8 ścieżek i 50 szkoleń – ruszają zapisy do Sekurak.Academy 2.0! Sekurak All Star 2.0. Nowości, zmiany oraz bezpłatny pokaz hackowania na żywo | [Link do strony](https://sekurak.pl/8-sciezek-i-50-szkolen-ruszaja-zapisy-do-sekurak-academy-2-0-sekurak-all-star-2-0-nowosci-zmiany-oraz-bezplatny-pokaz-hackowania-na-zywo/) |
+| 23/06/2025 | ClamAV łata krytyczną podatność | [Link do strony](https://sekurak.pl/clamav-lata-krytyczna-podatnosc/) |
+| 20/06/2025 | Masz wystawioną do Internetu Grafanę? Lepiej do niej zerknij… możliwe przejęcie konta | [Link do strony](https://sekurak.pl/masz-wystawiona-do-internetu-grafane-lepiej-do-niej-zerknij-mozliwe-przejecie-konta/) |
+| 20/06/2025 | Cisza przed… cyberatakiem. Drukarka jako wektor zagrożenia, o którym nikt głośno nie mówi | [Link do strony](https://sekurak.pl/cisza-przed-cyberatakiem-drukarka-jako-wektor-zagrozenia-o-ktorym-nikt-glosno-nie-mowi/) |
+| 18/06/2025 | Ataki na popularne routery TP-Link | [Link do strony](https://sekurak.pl/ataki-na-popularne-routery-tp-link/) |
+| 17/06/2025 | Wysokie kompetencje w cyberbezpieczeństwie? Poszerzaj horyzonty z Videopoint i sprawdź ofertę na 10 urodziny marki | [Link do strony](https://sekurak.pl/serwis-videopoint-pl-obchodzi-wlasnie-swoje-10-urodziny/) |
 | 13/06/2025 | Podatność RCE w systemie SIEM Wazuh wykorzystywana przez botnet Mirai | [Link do strony](https://sekurak.pl/podatnosc-rce-w-systemie-siem-wazuh-wykorzystywana-przez-botnet-mirai/) |
 | 11/06/2025 | Badacze zaprezentowali zdalne wykonanie kodu w klasycznej grze Heroes of Might and Magic V | [Link do strony](https://sekurak.pl/badacze-zaprezentowali-zdalne-wykonanie-kodu-w-klasycznej-grze-heroes-of-might-and-magic-v/) |
 | 10/06/2025 | Krytyczna podatność w Cisco ISE – “losowe” poświadczenia nie do końca losowe | [Link do strony](https://sekurak.pl/krytyczna-podatnosc-w-cisco-ise-losowe-poswiadczenia-nie-do-konca-losowe/) |
 | 08/06/2025 | Nowa wersja trojana bankowego Crocodilus na Androida może dodawać kontakty w smartfonie | [Link do strony](https://sekurak.pl/nowa-wersja-trojana-bankowego-crocodilus-na-androida-moze-dodawac-kontakty-w-smartfonie/) |
-| 06/06/2025 | Uwaga na ataki na polskie serwery ~poczty. Można jednym złośliwym mailem przejąć cały serwer (Roundcube) | [Link do strony](https://sekurak.pl/uwaga-na-ataki-na-polskie-serwery-poczty-mozna-jednym-zlosliwym-mailem-przejac-caly-serwer-roundcube/) |
-| 05/06/2025 | Jak źli hakerzy atakują internetowe fora? Groźne podatności vBulletin i polski wątek | [Link do strony](https://sekurak.pl/jak-zli-hakerzy-atakuja-internetowe-fora-grozne-podatnosci-vbulletin-i-polski-watek/) |
-| 04/06/2025 | 700 inżynierów z Indii udawało chatboty? – Nie do końca, ale Builder.ai upadło | [Link do strony](https://sekurak.pl/700-inzynierow-z-indii-udawalo-chatboty-historia-upadku-builder-ai/) |
-| 03/06/2025 | Zobacz jak scamerzy próbowali zainfekować Daniela poprzez rekrutację na LinkedIn. Przejęte konto rekrutera i super stawka ~3500 PLN / dzień. | [Link do strony](https://sekurak.pl/zobacz-jak-scamerzy-probowali-zainfekowac-daniela-poprzez-rekrutacje-na-linkedin-przejete-konto-rekrutera-i-super-stawka-3500-pln-dzien/) |
-| 30/05/2025 | Masz router Asusa? Sprawdź czy nie została wydana aktualizacja | [Link do strony](https://sekurak.pl/masz-router-asusa-sprawdz-czy-nie-zostala-wydana-aktualizacja/) |
-| 30/05/2025 | Jak można przechytrzyć cyberzbójów i uchronić firmę przed katastrofą, wydając na to równowartość biletu do kina? | [Link do strony](https://sekurak.pl/jak-mozna-przechytrzyc-cyberzbojow-i-uchronic-firme-przed-katastrofa-wydajac-na-to-rownowartosc-biletu-do-kina/) |
