@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 28/07/2025 | Podatności w Filesystem MCP Server od Anthropica | [Link do strony](https://sekurak.pl/podatnosci-w-filesystem-mcp-server-od-anthropica/) |
+| 27/07/2025 | Luka w ExpressVPN na Windowsa ujawniała prawdziwe adresy IP użytkowników | [Link do strony](https://sekurak.pl/luka-w-expressvpn-na-windowsa-ujawniala-prawdziwe-adresy-ip-uzytkownikow/) |
+| 25/07/2025 | Chatbot od Meta AI pozwalał na dostęp do prywatnych wiadomości i odpowiedzi wygenerowanych dla innych użytkowników | [Link do strony](https://sekurak.pl/chatbot-od-meta-ai-pozwalal-na-dostep-do-prywatnych-wiadomosci-i-odpowiedzi-wygenerowanych-dla-innych-uzytkownikow/) |
+| 25/07/2025 | Szukamy admina do Securitum (Kraków!) | [Link do strony](https://sekurak.pl/szukamy-admina-do-securitum-krakow/) |
+| 22/07/2025 | Darmowy dekryptor odzyskuje dane po ataku ransomware Phobos i 8base | [Link do strony](https://sekurak.pl/darmowy-dekryptor-odzyskuje-dane-po-ataku-ransomware-phobos-i-8base/) |
+| 22/07/2025 | Cicha aktualizacja z malware w rozszerzeniach do Google Chrome i Microsoft Edge zainfekowała 2,3 mln użytkowników. | [Link do strony](https://sekurak.pl/cicha-aktualizacja-z-malware-w-rozszerzeniach-do-google-chrome-i-microsoft-edge-zainfekowala-23-mln-uzytkownikow/) |
 | 21/07/2025 | Łatajcie szybko swoje Sharepointy – aktywnie wykorzystywana krytyczna podatność | [Link do strony](https://sekurak.pl/latajcie-szybko-swoje-sharepointy-aktywnie-wykorzystywana-krytyczna-podatnosc/) |
 | 21/07/2025 | Krytyczna podatność w aplikacji pozwalającej na podpięcie serwerów MCP do modelu LLM | [Link do strony](https://sekurak.pl/krytyczna-podatnosc-w-aplikacji-pozwalajacej-na-podpiecie-serwerow-mcp-do-modelu-llm/) |
 | 21/07/2025 | Nie zwalniamy tempa w wakacje – kolejna, bezpłatna dawka wiedzy od sekuraka! Jak ogarnąć wycieki danych osobowych oraz… jak zostać pentesterem! | [Link do strony](https://sekurak.pl/nie-zwalniamy-tempa-w-wakacje-kolejna-bezplatna-dawka-wiedzy-od-sekuraka-jak-ogarnac-wycieki-danych-osobowych-oraz-jak-zostac-pentesterem/) |
 | 18/07/2025 | Luka w zabezpieczeniach Gemini pozwala ukryć złośliwe instrukcje w wiadomości e-mail | [Link do strony](https://sekurak.pl/luka-w-zabezpieczeniach-gemini-pozwala-ukryc-zlosliwe-instrukcje-w-wiadomosci-e-mail/) |
-| 17/07/2025 | Pojawiła się aktualizacja Google Chrome łatająca trzy podatności CVE | [Link do strony](https://sekurak.pl/pojawila-sie-aktualizacja-google-chrome-latajaca-trzy-podatnosci-cve/) |
-| 16/07/2025 | Fortinet FortiWeb Fabric Connector i podatności z lat 90’ | [Link do strony](https://sekurak.pl/fortinet-fortiweb-fabric-connector-i-podatnosci-z-lat-90/) |
-| 16/07/2025 | Kolejne podatności LPE – tym razem moduły uwierzytelniania PAM | [Link do strony](https://sekurak.pl/kolejne-podatnosci-w-sudo-tym-razem-moduly-uwierzytelniania-pam/) |
-| 11/07/2025 | Aplikacja rekrutacyjna McDonald’s pozwalała na dostęp do danych innych aplikujących | [Link do strony](https://sekurak.pl/aplikacja-rekrutacyjna-mcdonalds-pozwalala-na-dostep-do-danych-innych-aplikujacych/) |
-| 10/07/2025 | Projekt SOS: Sekurak o Security wystartował. Bezpłatny kurs o cyberbezpieczeństwie – dla wszystkich pracowników biurowych :-) | [Link do strony](https://sekurak.pl/projekt-sos-sekurak-o-security-wystartowal-zobacz-co-dla-ciebie-przygotowalismy/) |
-| 08/07/2025 | CitrixBleed II – kolejny błąd powodujący, że serwer zwraca więcej danych niż powinien | [Link do strony](https://sekurak.pl/citrixbleed-ii-kolejny-blad-powodujacy-ze-serwer-zwraca-wiecej-danych-niz-powinien/) |
