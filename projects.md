@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 03/08/2025 | Miała być Chemia, a wyszedł wirus. Kolejna infekcja na Steam | [Link do strony](https://sekurak.pl/miala-byc-chemia-a-wyszedl-wirus-kolejna-infekcja-na-steam/) |
+| 01/08/2025 | Kariera w IT sec. Pytacie, odpowiadamy 🙂 zobacz odpowiedzi na najczęściej zadawane pytania z naszego webinaru | [Link do strony](https://sekurak.pl/kariera-w-it-sec-pytacie-odpowiadamy/) |
+| 01/08/2025 | ChoiceJacking, czyli kolejny powód by nie korzystać z publicznych ładowarek | [Link do strony](https://sekurak.pl/choicejacking-czyli-kolejny-powod-by-nie-korzystac-z-publicznych-ladowarek/) |
+| 01/08/2025 | W ten weekend odbędzie się justCTF | [Link do strony](https://sekurak.pl/w-ten-weekend-odbedzie-sie-justctf/) |
+| 01/08/2025 | Apple wydało aktualizację na wszystkie swoje urządzenia | [Link do strony](https://sekurak.pl/apple-wydalo-aktualizacje-na-wszystkie-swoje-urzadzenia/) |
+| 31/07/2025 | Uwaga Gdańsk i okolice! Ekipa sekuraka znów w trasie z Sekurak Hacking Party! | [Link do strony](https://sekurak.pl/uwaga-gdansk-i-okolice-ekipa-sekuraka-znow-w-trasie-z-sekurak-hacking-party/) |
+| 31/07/2025 | Chińskie kamery z krytycznymi podatnościami – Dahua Hero C1 i inne | [Link do strony](https://sekurak.pl/chinskie-kamery-z-krytycznymi-podatnosciami-dahua-hero-c1-i-inne/) |
+| 30/07/2025 | Jak dodatkowa funkcja Microsoft Copilota otworzyła furtkę dla hakerów | [Link do strony](https://sekurak.pl/jak-dodatkowa-funkcja-microsoft-copilota-otworzyla-furtke-dla-hakerow/) |
+| 30/07/2025 | Najbezpieczniejsze AI na rynku? Proton wypuszcza swojego asystenta Lumo | [Link do strony](https://sekurak.pl/najbezpieczniejsze-ai-na-rynku-proton-wypuszcza-swojego-asystenta-lumo/) |
 | 28/07/2025 | Podatności w Filesystem MCP Server od Anthropica | [Link do strony](https://sekurak.pl/podatnosci-w-filesystem-mcp-server-od-anthropica/) |
-| 27/07/2025 | Luka w ExpressVPN na Windowsa ujawniała prawdziwe adresy IP użytkowników | [Link do strony](https://sekurak.pl/luka-w-expressvpn-na-windowsa-ujawniala-prawdziwe-adresy-ip-uzytkownikow/) |
-| 25/07/2025 | Chatbot od Meta AI pozwalał na dostęp do prywatnych wiadomości i odpowiedzi wygenerowanych dla innych użytkowników | [Link do strony](https://sekurak.pl/chatbot-od-meta-ai-pozwalal-na-dostep-do-prywatnych-wiadomosci-i-odpowiedzi-wygenerowanych-dla-innych-uzytkownikow/) |
-| 25/07/2025 | Szukamy admina do Securitum (Kraków!) | [Link do strony](https://sekurak.pl/szukamy-admina-do-securitum-krakow/) |
-| 22/07/2025 | Darmowy dekryptor odzyskuje dane po ataku ransomware Phobos i 8base | [Link do strony](https://sekurak.pl/darmowy-dekryptor-odzyskuje-dane-po-ataku-ransomware-phobos-i-8base/) |
-| 22/07/2025 | Cicha aktualizacja z malware w rozszerzeniach do Google Chrome i Microsoft Edge zainfekowała 2,3 mln użytkowników. | [Link do strony](https://sekurak.pl/cicha-aktualizacja-z-malware-w-rozszerzeniach-do-google-chrome-i-microsoft-edge-zainfekowala-23-mln-uzytkownikow/) |
-| 21/07/2025 | Łatajcie szybko swoje Sharepointy – aktywnie wykorzystywana krytyczna podatność | [Link do strony](https://sekurak.pl/latajcie-szybko-swoje-sharepointy-aktywnie-wykorzystywana-krytyczna-podatnosc/) |
-| 21/07/2025 | Krytyczna podatność w aplikacji pozwalającej na podpięcie serwerów MCP do modelu LLM | [Link do strony](https://sekurak.pl/krytyczna-podatnosc-w-aplikacji-pozwalajacej-na-podpiecie-serwerow-mcp-do-modelu-llm/) |
-| 21/07/2025 | Nie zwalniamy tempa w wakacje – kolejna, bezpłatna dawka wiedzy od sekuraka! Jak ogarnąć wycieki danych osobowych oraz… jak zostać pentesterem! | [Link do strony](https://sekurak.pl/nie-zwalniamy-tempa-w-wakacje-kolejna-bezplatna-dawka-wiedzy-od-sekuraka-jak-ogarnac-wycieki-danych-osobowych-oraz-jak-zostac-pentesterem/) |
-| 18/07/2025 | Luka w zabezpieczeniach Gemini pozwala ukryć złośliwe instrukcje w wiadomości e-mail | [Link do strony](https://sekurak.pl/luka-w-zabezpieczeniach-gemini-pozwala-ukryc-zlosliwe-instrukcje-w-wiadomosci-e-mail/) |
