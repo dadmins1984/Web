@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
+| 11/08/2025 | Wiele podatności w HashiCorp Vault | [Link do strony](https://sekurak.pl/wiele-podatnosci-w-hashicorp-vault/) |
+| 11/08/2025 | Podatność w WinRAR dla Windows wykorzystywana w atakach | [Link do strony](https://sekurak.pl/podatnosc-w-winrar-dla-windows-wykorzystywana-w-atakach/) |
+| 09/08/2025 | Hackerskie sztuczki Gynvaela. Dowiedz się, jak wygrywać CTF-y! | [Link do strony](https://sekurak.pl/hackerskie-sztuczki-gynvaela-dowiedz-sie-jak-wygrywac-ctf-y/) |
+| 09/08/2025 | Jak konkursy hakerskie kształtują strategiczne zdolności cyfrowe Chin? | [Link do strony](https://sekurak.pl/jak-konkursy-hakerskie-ksztaltuja-strategiczne-zdolnosci-cyfrowe-chin/) |
+| 08/08/2025 | W jaki sposób exploit typu Content Injection może zniszczyć społeczność kultowej gry RTS? | [Link do strony](https://sekurak.pl/w-jaki-sposob-exploit-typu-content-injection-moze-zniszczyc-spolecznosc-kultowej-gry-rts/) |
+| 06/08/2025 | Cisco potwierdza wyciek danych użytkowników – winny vishing. Znów zaatakowano Salesforce? | [Link do strony](https://sekurak.pl/cisco-potwierdza-wyciek-uzytkownikow-winny-vishing-znow-zaatakowano-salesforce/) |
+| 06/08/2025 | Wyszukiwarki indeksowały prywatne rozmowy użytkowników ChataGPT | [Link do strony](https://sekurak.pl/wyszukiwarki-indeksowaly-prywatne-rozmowy-uzytkownikow-chatagpt/) |
 | 03/08/2025 | Miała być Chemia, a wyszedł wirus. Kolejna infekcja na Steam | [Link do strony](https://sekurak.pl/miala-byc-chemia-a-wyszedl-wirus-kolejna-infekcja-na-steam/) |
 | 01/08/2025 | Kariera w IT sec. Pytacie, odpowiadamy 🙂 zobacz odpowiedzi na najczęściej zadawane pytania z naszego webinaru | [Link do strony](https://sekurak.pl/kariera-w-it-sec-pytacie-odpowiadamy/) |
 | 01/08/2025 | ChoiceJacking, czyli kolejny powód by nie korzystać z publicznych ładowarek | [Link do strony](https://sekurak.pl/choicejacking-czyli-kolejny-powod-by-nie-korzystac-z-publicznych-ladowarek/) |
-| 01/08/2025 | W ten weekend odbędzie się justCTF | [Link do strony](https://sekurak.pl/w-ten-weekend-odbedzie-sie-justctf/) |
-| 01/08/2025 | Apple wydało aktualizację na wszystkie swoje urządzenia | [Link do strony](https://sekurak.pl/apple-wydalo-aktualizacje-na-wszystkie-swoje-urzadzenia/) |
-| 31/07/2025 | Uwaga Gdańsk i okolice! Ekipa sekuraka znów w trasie z Sekurak Hacking Party! | [Link do strony](https://sekurak.pl/uwaga-gdansk-i-okolice-ekipa-sekuraka-znow-w-trasie-z-sekurak-hacking-party/) |
-| 31/07/2025 | Chińskie kamery z krytycznymi podatnościami – Dahua Hero C1 i inne | [Link do strony](https://sekurak.pl/chinskie-kamery-z-krytycznymi-podatnosciami-dahua-hero-c1-i-inne/) |
-| 30/07/2025 | Jak dodatkowa funkcja Microsoft Copilota otworzyła furtkę dla hakerów | [Link do strony](https://sekurak.pl/jak-dodatkowa-funkcja-microsoft-copilota-otworzyla-furtke-dla-hakerow/) |
-| 30/07/2025 | Najbezpieczniejsze AI na rynku? Proton wypuszcza swojego asystenta Lumo | [Link do strony](https://sekurak.pl/najbezpieczniejsze-ai-na-rynku-proton-wypuszcza-swojego-asystenta-lumo/) |
-| 28/07/2025 | Podatności w Filesystem MCP Server od Anthropica | [Link do strony](https://sekurak.pl/podatnosci-w-filesystem-mcp-server-od-anthropica/) |
