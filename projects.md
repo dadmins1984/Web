@@ -16,13 +16,13 @@ title: "Projects"
 
 | 📅 Data | 📌 Wiadomości z [sekurak.pl](https://sekurak.pl/) | 🔗 Link do strony |
 |:---------:|:------------------|-------------------:|
-| 11/08/2025 | Wiele podatności w HashiCorp Vault | [Link do strony](https://sekurak.pl/wiele-podatnosci-w-hashicorp-vault/) |
-| 11/08/2025 | Podatność w WinRAR dla Windows wykorzystywana w atakach | [Link do strony](https://sekurak.pl/podatnosc-w-winrar-dla-windows-wykorzystywana-w-atakach/) |
-| 09/08/2025 | Hackerskie sztuczki Gynvaela. Dowiedz się, jak wygrywać CTF-y! | [Link do strony](https://sekurak.pl/hackerskie-sztuczki-gynvaela-dowiedz-sie-jak-wygrywac-ctf-y/) |
-| 09/08/2025 | Jak konkursy hakerskie kształtują strategiczne zdolności cyfrowe Chin? | [Link do strony](https://sekurak.pl/jak-konkursy-hakerskie-ksztaltuja-strategiczne-zdolnosci-cyfrowe-chin/) |
-| 08/08/2025 | W jaki sposób exploit typu Content Injection może zniszczyć społeczność kultowej gry RTS? | [Link do strony](https://sekurak.pl/w-jaki-sposob-exploit-typu-content-injection-moze-zniszczyc-spolecznosc-kultowej-gry-rts/) |
-| 06/08/2025 | Cisco potwierdza wyciek danych użytkowników – winny vishing. Znów zaatakowano Salesforce? | [Link do strony](https://sekurak.pl/cisco-potwierdza-wyciek-uzytkownikow-winny-vishing-znow-zaatakowano-salesforce/) |
-| 06/08/2025 | Wyszukiwarki indeksowały prywatne rozmowy użytkowników ChataGPT | [Link do strony](https://sekurak.pl/wyszukiwarki-indeksowaly-prywatne-rozmowy-uzytkownikow-chatagpt/) |
-| 03/08/2025 | Miała być Chemia, a wyszedł wirus. Kolejna infekcja na Steam | [Link do strony](https://sekurak.pl/miala-byc-chemia-a-wyszedl-wirus-kolejna-infekcja-na-steam/) |
-| 01/08/2025 | Kariera w IT sec. Pytacie, odpowiadamy 🙂 zobacz odpowiedzi na najczęściej zadawane pytania z naszego webinaru | [Link do strony](https://sekurak.pl/kariera-w-it-sec-pytacie-odpowiadamy/) |
-| 01/08/2025 | ChoiceJacking, czyli kolejny powód by nie korzystać z publicznych ładowarek | [Link do strony](https://sekurak.pl/choicejacking-czyli-kolejny-powod-by-nie-korzystac-z-publicznych-ladowarek/) |
+| 18/08/2025 | AI i wycieki danych – nowe unikatowe szkolenie od sekuraka! | [Link do strony](https://sekurak.pl/ai-i-wycieki-danych-nowe-unikatowe-szkolenie-od-sekuraka/) |
+| 18/08/2025 | Kolejny problem Fortineta – podatne FortiSIEM pod ostrzałem | [Link do strony](https://sekurak.pl/kolejny-problem-fortineta-podatne-fortisiem-pod-ostrzalem/) |
+| 18/08/2025 | Amerykańskie trackery w przesyłkach z chipami AI. Tak wygląda technologiczna zimna wojna | [Link do strony](https://sekurak.pl/amerykanskie-trackery-w-przesylkach-z-chipami-ai-tak-wyglada-technologiczna-zimna-wojna/) |
+| 14/08/2025 | Mandat za niesegregowanie odpadów? Kolejny sprytny phishing | [Link do strony](https://sekurak.pl/mandat-za-niesegregowanie-odpadow-kolejny-sprytny-phishing/) |
+| 14/08/2025 | Topowi CISO w jednym miejscu! Kraków stolicą ITsec w październiku | [Link do strony](https://sekurak.pl/topowi-ciso-w-jednym-miejscu-krakow-stolica-itsec-w-pazdzierniku/) |
+| 14/08/2025 | Claude Code wprowadza automatyczne przeglądy bezpieczeństwa kodu | [Link do strony](https://sekurak.pl/claude-code-wprowadza-automatyczne-przeglady-bezpieczenstwa-kodu/) |
+| 12/08/2025 | Jak środowisko Cursor pozwalało na uruchomienie złośliwego kodu – CVE-2025-54136 | [Link do strony](https://sekurak.pl/jak-srodowisko-cursor-pozwalalo-na-uruchomienie-zlosliwego-kodu-cve-2025-54136/) |
+| 12/08/2025 | Grupy APT, haktywiści i ataki na łańcuch dostaw – raport CSIRT GOV 2024 | [Link do strony](https://sekurak.pl/grupy-apt-haktywisci-i-ataki-na-lancuch-dostaw-raport-csirt-gov-2024/) |
+| 12/08/2025 | Czy można z kamer Lenovo zrobić BadUSB? No prawie… | [Link do strony](https://sekurak.pl/czy-mozna-z-kamer-lenovo-zrobic-usb-rubber-ducky-no-prawie/) |
+| 12/08/2025 | Ekipa sekuraka rusza ponownie w trasę! | [Link do strony](https://sekurak.pl/ekipa-sekuraka-rusza-ponownie-w-trase/) |
